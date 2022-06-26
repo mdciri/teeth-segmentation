@@ -116,6 +116,7 @@ if __name__ == "__main__":
     out = {
         "file_name": [],
         "set_name": ["train"]*len(jfile["train"]) + ["valid"]*len(jfile["valid"]) + ["test"]*len(jfile["test"]),
+        "loss": train_loss + valid_loss + test_loss,
         "dice": train_dice + valid_dice + test_dice
     }
 
@@ -124,4 +125,5 @@ if __name__ == "__main__":
             out["file_name"].append(data["img"])
 
     df = pd.DataFrame(out)
+    df.sort_values(by=["file_name"])
     df.to_csv("evaluation_results.csv")
