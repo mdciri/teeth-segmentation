@@ -1,0 +1,5016 @@
+{
+    "class_names": [
+        "background",
+        "teeth"
+    ],
+    "class_weights": {
+        "0": 0.5665430948210212,
+        "1": 4.256963824306896
+    },
+    "train": [
+        {
+            "img": "Radiographs/868.JPG",
+            "seg": "Segmentation/teeth_mask/868.jpg",
+            "msk": "Segmentation/maxillomandibular/868.jpg"
+        },
+        {
+            "img": "Radiographs/25.JPG",
+            "seg": "Segmentation/teeth_mask/25.jpg",
+            "msk": "Segmentation/maxillomandibular/25.jpg"
+        },
+        {
+            "img": "Radiographs/603.JPG",
+            "seg": "Segmentation/teeth_mask/603.jpg",
+            "msk": "Segmentation/maxillomandibular/603.jpg"
+        },
+        {
+            "img": "Radiographs/775.JPG",
+            "seg": "Segmentation/teeth_mask/775.jpg",
+            "msk": "Segmentation/maxillomandibular/775.jpg"
+        },
+        {
+            "img": "Radiographs/428.JPG",
+            "seg": "Segmentation/teeth_mask/428.jpg",
+            "msk": "Segmentation/maxillomandibular/428.jpg"
+        },
+        {
+            "img": "Radiographs/45.JPG",
+            "seg": "Segmentation/teeth_mask/45.jpg",
+            "msk": "Segmentation/maxillomandibular/45.jpg"
+        },
+        {
+            "img": "Radiographs/47.JPG",
+            "seg": "Segmentation/teeth_mask/47.jpg",
+            "msk": "Segmentation/maxillomandibular/47.jpg"
+        },
+        {
+            "img": "Radiographs/157.JPG",
+            "seg": "Segmentation/teeth_mask/157.jpg",
+            "msk": "Segmentation/maxillomandibular/157.jpg"
+        },
+        {
+            "img": "Radiographs/106.JPG",
+            "seg": "Segmentation/teeth_mask/106.jpg",
+            "msk": "Segmentation/maxillomandibular/106.jpg"
+        },
+        {
+            "img": "Radiographs/183.JPG",
+            "seg": "Segmentation/teeth_mask/183.jpg",
+            "msk": "Segmentation/maxillomandibular/183.jpg"
+        },
+        {
+            "img": "Radiographs/121.JPG",
+            "seg": "Segmentation/teeth_mask/121.jpg",
+            "msk": "Segmentation/maxillomandibular/121.jpg"
+        },
+        {
+            "img": "Radiographs/750.JPG",
+            "seg": "Segmentation/teeth_mask/750.jpg",
+            "msk": "Segmentation/maxillomandibular/750.jpg"
+        },
+        {
+            "img": "Radiographs/618.JPG",
+            "seg": "Segmentation/teeth_mask/618.jpg",
+            "msk": "Segmentation/maxillomandibular/618.jpg"
+        },
+        {
+            "img": "Radiographs/248.JPG",
+            "seg": "Segmentation/teeth_mask/248.jpg",
+            "msk": "Segmentation/maxillomandibular/248.jpg"
+        },
+        {
+            "img": "Radiographs/498.JPG",
+            "seg": "Segmentation/teeth_mask/498.jpg",
+            "msk": "Segmentation/maxillomandibular/498.jpg"
+        },
+        {
+            "img": "Radiographs/261.JPG",
+            "seg": "Segmentation/teeth_mask/261.jpg",
+            "msk": "Segmentation/maxillomandibular/261.jpg"
+        },
+        {
+            "img": "Radiographs/575.JPG",
+            "seg": "Segmentation/teeth_mask/575.jpg",
+            "msk": "Segmentation/maxillomandibular/575.jpg"
+        },
+        {
+            "img": "Radiographs/554.JPG",
+            "seg": "Segmentation/teeth_mask/554.jpg",
+            "msk": "Segmentation/maxillomandibular/554.jpg"
+        },
+        {
+            "img": "Radiographs/300.JPG",
+            "seg": "Segmentation/teeth_mask/300.jpg",
+            "msk": "Segmentation/maxillomandibular/300.jpg"
+        },
+        {
+            "img": "Radiographs/650.JPG",
+            "seg": "Segmentation/teeth_mask/650.jpg",
+            "msk": "Segmentation/maxillomandibular/650.jpg"
+        },
+        {
+            "img": "Radiographs/488.JPG",
+            "seg": "Segmentation/teeth_mask/488.jpg",
+            "msk": "Segmentation/maxillomandibular/488.jpg"
+        },
+        {
+            "img": "Radiographs/1009.JPG",
+            "seg": "Segmentation/teeth_mask/1009.jpg",
+            "msk": "Segmentation/maxillomandibular/1009.jpg"
+        },
+        {
+            "img": "Radiographs/521.JPG",
+            "seg": "Segmentation/teeth_mask/521.jpg",
+            "msk": "Segmentation/maxillomandibular/521.jpg"
+        },
+        {
+            "img": "Radiographs/651.JPG",
+            "seg": "Segmentation/teeth_mask/651.jpg",
+            "msk": "Segmentation/maxillomandibular/651.jpg"
+        },
+        {
+            "img": "Radiographs/995.JPG",
+            "seg": "Segmentation/teeth_mask/995.jpg",
+            "msk": "Segmentation/maxillomandibular/995.jpg"
+        },
+        {
+            "img": "Radiographs/27.JPG",
+            "seg": "Segmentation/teeth_mask/27.jpg",
+            "msk": "Segmentation/maxillomandibular/27.jpg"
+        },
+        {
+            "img": "Radiographs/844.JPG",
+            "seg": "Segmentation/teeth_mask/844.jpg",
+            "msk": "Segmentation/maxillomandibular/844.jpg"
+        },
+        {
+            "img": "Radiographs/706.JPG",
+            "seg": "Segmentation/teeth_mask/706.jpg",
+            "msk": "Segmentation/maxillomandibular/706.jpg"
+        },
+        {
+            "img": "Radiographs/797.JPG",
+            "seg": "Segmentation/teeth_mask/797.jpg",
+            "msk": "Segmentation/maxillomandibular/797.jpg"
+        },
+        {
+            "img": "Radiographs/955.JPG",
+            "seg": "Segmentation/teeth_mask/955.jpg",
+            "msk": "Segmentation/maxillomandibular/955.jpg"
+        },
+        {
+            "img": "Radiographs/285.JPG",
+            "seg": "Segmentation/teeth_mask/285.jpg",
+            "msk": "Segmentation/maxillomandibular/285.jpg"
+        },
+        {
+            "img": "Radiographs/693.JPG",
+            "seg": "Segmentation/teeth_mask/693.jpg",
+            "msk": "Segmentation/maxillomandibular/693.jpg"
+        },
+        {
+            "img": "Radiographs/952.JPG",
+            "seg": "Segmentation/teeth_mask/952.jpg",
+            "msk": "Segmentation/maxillomandibular/952.jpg"
+        },
+        {
+            "img": "Radiographs/120.JPG",
+            "seg": "Segmentation/teeth_mask/120.jpg",
+            "msk": "Segmentation/maxillomandibular/120.jpg"
+        },
+        {
+            "img": "Radiographs/348.JPG",
+            "seg": "Segmentation/teeth_mask/348.jpg",
+            "msk": "Segmentation/maxillomandibular/348.jpg"
+        },
+        {
+            "img": "Radiographs/61.JPG",
+            "seg": "Segmentation/teeth_mask/61.jpg",
+            "msk": "Segmentation/maxillomandibular/61.jpg"
+        },
+        {
+            "img": "Radiographs/398.JPG",
+            "seg": "Segmentation/teeth_mask/398.jpg",
+            "msk": "Segmentation/maxillomandibular/398.jpg"
+        },
+        {
+            "img": "Radiographs/57.JPG",
+            "seg": "Segmentation/teeth_mask/57.jpg",
+            "msk": "Segmentation/maxillomandibular/57.jpg"
+        },
+        {
+            "img": "Radiographs/462.JPG",
+            "seg": "Segmentation/teeth_mask/462.jpg",
+            "msk": "Segmentation/maxillomandibular/462.jpg"
+        },
+        {
+            "img": "Radiographs/998.JPG",
+            "seg": "Segmentation/teeth_mask/998.jpg",
+            "msk": "Segmentation/maxillomandibular/998.jpg"
+        },
+        {
+            "img": "Radiographs/54.JPG",
+            "seg": "Segmentation/teeth_mask/54.jpg",
+            "msk": "Segmentation/maxillomandibular/54.jpg"
+        },
+        {
+            "img": "Radiographs/1008.JPG",
+            "seg": "Segmentation/teeth_mask/1008.jpg",
+            "msk": "Segmentation/maxillomandibular/1008.jpg"
+        },
+        {
+            "img": "Radiographs/249.JPG",
+            "seg": "Segmentation/teeth_mask/249.jpg",
+            "msk": "Segmentation/maxillomandibular/249.jpg"
+        },
+        {
+            "img": "Radiographs/859.JPG",
+            "seg": "Segmentation/teeth_mask/859.jpg",
+            "msk": "Segmentation/maxillomandibular/859.jpg"
+        },
+        {
+            "img": "Radiographs/619.JPG",
+            "seg": "Segmentation/teeth_mask/619.jpg",
+            "msk": "Segmentation/maxillomandibular/619.jpg"
+        },
+        {
+            "img": "Radiographs/782.JPG",
+            "seg": "Segmentation/teeth_mask/782.jpg",
+            "msk": "Segmentation/maxillomandibular/782.jpg"
+        },
+        {
+            "img": "Radiographs/687.JPG",
+            "seg": "Segmentation/teeth_mask/687.jpg",
+            "msk": "Segmentation/maxillomandibular/687.jpg"
+        },
+        {
+            "img": "Radiographs/843.JPG",
+            "seg": "Segmentation/teeth_mask/843.jpg",
+            "msk": "Segmentation/maxillomandibular/843.jpg"
+        },
+        {
+            "img": "Radiographs/413.JPG",
+            "seg": "Segmentation/teeth_mask/413.jpg",
+            "msk": "Segmentation/maxillomandibular/413.jpg"
+        },
+        {
+            "img": "Radiographs/123.JPG",
+            "seg": "Segmentation/teeth_mask/123.jpg",
+            "msk": "Segmentation/maxillomandibular/123.jpg"
+        },
+        {
+            "img": "Radiographs/610.JPG",
+            "seg": "Segmentation/teeth_mask/610.jpg",
+            "msk": "Segmentation/maxillomandibular/610.jpg"
+        },
+        {
+            "img": "Radiographs/117.JPG",
+            "seg": "Segmentation/teeth_mask/117.jpg",
+            "msk": "Segmentation/maxillomandibular/117.jpg"
+        },
+        {
+            "img": "Radiographs/20.JPG",
+            "seg": "Segmentation/teeth_mask/20.jpg",
+            "msk": "Segmentation/maxillomandibular/20.jpg"
+        },
+        {
+            "img": "Radiographs/769.JPG",
+            "seg": "Segmentation/teeth_mask/769.jpg",
+            "msk": "Segmentation/maxillomandibular/769.jpg"
+        },
+        {
+            "img": "Radiographs/968.JPG",
+            "seg": "Segmentation/teeth_mask/968.jpg",
+            "msk": "Segmentation/maxillomandibular/968.jpg"
+        },
+        {
+            "img": "Radiographs/646.JPG",
+            "seg": "Segmentation/teeth_mask/646.jpg",
+            "msk": "Segmentation/maxillomandibular/646.jpg"
+        },
+        {
+            "img": "Radiographs/804.JPG",
+            "seg": "Segmentation/teeth_mask/804.jpg",
+            "msk": "Segmentation/maxillomandibular/804.jpg"
+        },
+        {
+            "img": "Radiographs/987.JPG",
+            "seg": "Segmentation/teeth_mask/987.jpg",
+            "msk": "Segmentation/maxillomandibular/987.jpg"
+        },
+        {
+            "img": "Radiographs/459.JPG",
+            "seg": "Segmentation/teeth_mask/459.jpg",
+            "msk": "Segmentation/maxillomandibular/459.jpg"
+        },
+        {
+            "img": "Radiographs/75.JPG",
+            "seg": "Segmentation/teeth_mask/75.jpg",
+            "msk": "Segmentation/maxillomandibular/75.jpg"
+        },
+        {
+            "img": "Radiographs/962.JPG",
+            "seg": "Segmentation/teeth_mask/962.jpg",
+            "msk": "Segmentation/maxillomandibular/962.jpg"
+        },
+        {
+            "img": "Radiographs/695.JPG",
+            "seg": "Segmentation/teeth_mask/695.jpg",
+            "msk": "Segmentation/maxillomandibular/695.jpg"
+        },
+        {
+            "img": "Radiographs/836.JPG",
+            "seg": "Segmentation/teeth_mask/836.jpg",
+            "msk": "Segmentation/maxillomandibular/836.jpg"
+        },
+        {
+            "img": "Radiographs/1020.JPG",
+            "seg": "Segmentation/teeth_mask/1020.jpg",
+            "msk": "Segmentation/maxillomandibular/1020.jpg"
+        },
+        {
+            "img": "Radiographs/786.JPG",
+            "seg": "Segmentation/teeth_mask/786.jpg",
+            "msk": "Segmentation/maxillomandibular/786.jpg"
+        },
+        {
+            "img": "Radiographs/926.JPG",
+            "seg": "Segmentation/teeth_mask/926.jpg",
+            "msk": "Segmentation/maxillomandibular/926.jpg"
+        },
+        {
+            "img": "Radiographs/537.JPG",
+            "seg": "Segmentation/teeth_mask/537.jpg",
+            "msk": "Segmentation/maxillomandibular/537.jpg"
+        },
+        {
+            "img": "Radiographs/333.JPG",
+            "seg": "Segmentation/teeth_mask/333.jpg",
+            "msk": "Segmentation/maxillomandibular/333.jpg"
+        },
+        {
+            "img": "Radiographs/71.JPG",
+            "seg": "Segmentation/teeth_mask/71.jpg",
+            "msk": "Segmentation/maxillomandibular/71.jpg"
+        },
+        {
+            "img": "Radiographs/622.JPG",
+            "seg": "Segmentation/teeth_mask/622.jpg",
+            "msk": "Segmentation/maxillomandibular/622.jpg"
+        },
+        {
+            "img": "Radiographs/894.JPG",
+            "seg": "Segmentation/teeth_mask/894.jpg",
+            "msk": "Segmentation/maxillomandibular/894.jpg"
+        },
+        {
+            "img": "Radiographs/253.JPG",
+            "seg": "Segmentation/teeth_mask/253.jpg",
+            "msk": "Segmentation/maxillomandibular/253.jpg"
+        },
+        {
+            "img": "Radiographs/404.JPG",
+            "seg": "Segmentation/teeth_mask/404.jpg",
+            "msk": "Segmentation/maxillomandibular/404.jpg"
+        },
+        {
+            "img": "Radiographs/647.JPG",
+            "seg": "Segmentation/teeth_mask/647.jpg",
+            "msk": "Segmentation/maxillomandibular/647.jpg"
+        },
+        {
+            "img": "Radiographs/564.JPG",
+            "seg": "Segmentation/teeth_mask/564.jpg",
+            "msk": "Segmentation/maxillomandibular/564.jpg"
+        },
+        {
+            "img": "Radiographs/193.JPG",
+            "seg": "Segmentation/teeth_mask/193.jpg",
+            "msk": "Segmentation/maxillomandibular/193.jpg"
+        },
+        {
+            "img": "Radiographs/189.JPG",
+            "seg": "Segmentation/teeth_mask/189.jpg",
+            "msk": "Segmentation/maxillomandibular/189.jpg"
+        },
+        {
+            "img": "Radiographs/26.JPG",
+            "seg": "Segmentation/teeth_mask/26.jpg",
+            "msk": "Segmentation/maxillomandibular/26.jpg"
+        },
+        {
+            "img": "Radiographs/1024.JPG",
+            "seg": "Segmentation/teeth_mask/1024.jpg",
+            "msk": "Segmentation/maxillomandibular/1024.jpg"
+        },
+        {
+            "img": "Radiographs/85.JPG",
+            "seg": "Segmentation/teeth_mask/85.jpg",
+            "msk": "Segmentation/maxillomandibular/85.jpg"
+        },
+        {
+            "img": "Radiographs/519.JPG",
+            "seg": "Segmentation/teeth_mask/519.jpg",
+            "msk": "Segmentation/maxillomandibular/519.jpg"
+        },
+        {
+            "img": "Radiographs/530.JPG",
+            "seg": "Segmentation/teeth_mask/530.jpg",
+            "msk": "Segmentation/maxillomandibular/530.jpg"
+        },
+        {
+            "img": "Radiographs/691.JPG",
+            "seg": "Segmentation/teeth_mask/691.jpg",
+            "msk": "Segmentation/maxillomandibular/691.jpg"
+        },
+        {
+            "img": "Radiographs/820.JPG",
+            "seg": "Segmentation/teeth_mask/820.jpg",
+            "msk": "Segmentation/maxillomandibular/820.jpg"
+        },
+        {
+            "img": "Radiographs/670.JPG",
+            "seg": "Segmentation/teeth_mask/670.jpg",
+            "msk": "Segmentation/maxillomandibular/670.jpg"
+        },
+        {
+            "img": "Radiographs/531.JPG",
+            "seg": "Segmentation/teeth_mask/531.jpg",
+            "msk": "Segmentation/maxillomandibular/531.jpg"
+        },
+        {
+            "img": "Radiographs/753.JPG",
+            "seg": "Segmentation/teeth_mask/753.jpg",
+            "msk": "Segmentation/maxillomandibular/753.jpg"
+        },
+        {
+            "img": "Radiographs/559.JPG",
+            "seg": "Segmentation/teeth_mask/559.jpg",
+            "msk": "Segmentation/maxillomandibular/559.jpg"
+        },
+        {
+            "img": "Radiographs/481.JPG",
+            "seg": "Segmentation/teeth_mask/481.jpg",
+            "msk": "Segmentation/maxillomandibular/481.jpg"
+        },
+        {
+            "img": "Radiographs/1021.JPG",
+            "seg": "Segmentation/teeth_mask/1021.jpg",
+            "msk": "Segmentation/maxillomandibular/1021.jpg"
+        },
+        {
+            "img": "Radiographs/592.JPG",
+            "seg": "Segmentation/teeth_mask/592.jpg",
+            "msk": "Segmentation/maxillomandibular/592.jpg"
+        },
+        {
+            "img": "Radiographs/852.JPG",
+            "seg": "Segmentation/teeth_mask/852.jpg",
+            "msk": "Segmentation/maxillomandibular/852.jpg"
+        },
+        {
+            "img": "Radiographs/90.JPG",
+            "seg": "Segmentation/teeth_mask/90.jpg",
+            "msk": "Segmentation/maxillomandibular/90.jpg"
+        },
+        {
+            "img": "Radiographs/479.JPG",
+            "seg": "Segmentation/teeth_mask/479.jpg",
+            "msk": "Segmentation/maxillomandibular/479.jpg"
+        },
+        {
+            "img": "Radiographs/553.JPG",
+            "seg": "Segmentation/teeth_mask/553.jpg",
+            "msk": "Segmentation/maxillomandibular/553.jpg"
+        },
+        {
+            "img": "Radiographs/74.JPG",
+            "seg": "Segmentation/teeth_mask/74.jpg",
+            "msk": "Segmentation/maxillomandibular/74.jpg"
+        },
+        {
+            "img": "Radiographs/829.JPG",
+            "seg": "Segmentation/teeth_mask/829.jpg",
+            "msk": "Segmentation/maxillomandibular/829.jpg"
+        },
+        {
+            "img": "Radiographs/631.JPG",
+            "seg": "Segmentation/teeth_mask/631.jpg",
+            "msk": "Segmentation/maxillomandibular/631.jpg"
+        },
+        {
+            "img": "Radiographs/922.JPG",
+            "seg": "Segmentation/teeth_mask/922.jpg",
+            "msk": "Segmentation/maxillomandibular/922.jpg"
+        },
+        {
+            "img": "Radiographs/229.JPG",
+            "seg": "Segmentation/teeth_mask/229.jpg",
+            "msk": "Segmentation/maxillomandibular/229.jpg"
+        },
+        {
+            "img": "Radiographs/24.JPG",
+            "seg": "Segmentation/teeth_mask/24.jpg",
+            "msk": "Segmentation/maxillomandibular/24.jpg"
+        },
+        {
+            "img": "Radiographs/352.JPG",
+            "seg": "Segmentation/teeth_mask/352.jpg",
+            "msk": "Segmentation/maxillomandibular/352.jpg"
+        },
+        {
+            "img": "Radiographs/108.JPG",
+            "seg": "Segmentation/teeth_mask/108.jpg",
+            "msk": "Segmentation/maxillomandibular/108.jpg"
+        },
+        {
+            "img": "Radiographs/833.JPG",
+            "seg": "Segmentation/teeth_mask/833.jpg",
+            "msk": "Segmentation/maxillomandibular/833.jpg"
+        },
+        {
+            "img": "Radiographs/492.JPG",
+            "seg": "Segmentation/teeth_mask/492.jpg",
+            "msk": "Segmentation/maxillomandibular/492.jpg"
+        },
+        {
+            "img": "Radiographs/297.JPG",
+            "seg": "Segmentation/teeth_mask/297.jpg",
+            "msk": "Segmentation/maxillomandibular/297.jpg"
+        },
+        {
+            "img": "Radiographs/166.JPG",
+            "seg": "Segmentation/teeth_mask/166.jpg",
+            "msk": "Segmentation/maxillomandibular/166.jpg"
+        },
+        {
+            "img": "Radiographs/400.JPG",
+            "seg": "Segmentation/teeth_mask/400.jpg",
+            "msk": "Segmentation/maxillomandibular/400.jpg"
+        },
+        {
+            "img": "Radiographs/832.JPG",
+            "seg": "Segmentation/teeth_mask/832.jpg",
+            "msk": "Segmentation/maxillomandibular/832.jpg"
+        },
+        {
+            "img": "Radiographs/206.JPG",
+            "seg": "Segmentation/teeth_mask/206.jpg",
+            "msk": "Segmentation/maxillomandibular/206.jpg"
+        },
+        {
+            "img": "Radiographs/746.JPG",
+            "seg": "Segmentation/teeth_mask/746.jpg",
+            "msk": "Segmentation/maxillomandibular/746.jpg"
+        },
+        {
+            "img": "Radiographs/666.JPG",
+            "seg": "Segmentation/teeth_mask/666.jpg",
+            "msk": "Segmentation/maxillomandibular/666.jpg"
+        },
+        {
+            "img": "Radiographs/1028.JPG",
+            "seg": "Segmentation/teeth_mask/1028.jpg",
+            "msk": "Segmentation/maxillomandibular/1028.jpg"
+        },
+        {
+            "img": "Radiographs/574.JPG",
+            "seg": "Segmentation/teeth_mask/574.jpg",
+            "msk": "Segmentation/maxillomandibular/574.jpg"
+        },
+        {
+            "img": "Radiographs/507.JPG",
+            "seg": "Segmentation/teeth_mask/507.jpg",
+            "msk": "Segmentation/maxillomandibular/507.jpg"
+        },
+        {
+            "img": "Radiographs/214.JPG",
+            "seg": "Segmentation/teeth_mask/214.jpg",
+            "msk": "Segmentation/maxillomandibular/214.jpg"
+        },
+        {
+            "img": "Radiographs/424.JPG",
+            "seg": "Segmentation/teeth_mask/424.jpg",
+            "msk": "Segmentation/maxillomandibular/424.jpg"
+        },
+        {
+            "img": "Radiographs/736.JPG",
+            "seg": "Segmentation/teeth_mask/736.jpg",
+            "msk": "Segmentation/maxillomandibular/736.jpg"
+        },
+        {
+            "img": "Radiographs/822.JPG",
+            "seg": "Segmentation/teeth_mask/822.jpg",
+            "msk": "Segmentation/maxillomandibular/822.jpg"
+        },
+        {
+            "img": "Radiographs/950.JPG",
+            "seg": "Segmentation/teeth_mask/950.jpg",
+            "msk": "Segmentation/maxillomandibular/950.jpg"
+        },
+        {
+            "img": "Radiographs/663.JPG",
+            "seg": "Segmentation/teeth_mask/663.jpg",
+            "msk": "Segmentation/maxillomandibular/663.jpg"
+        },
+        {
+            "img": "Radiographs/39.JPG",
+            "seg": "Segmentation/teeth_mask/39.jpg",
+            "msk": "Segmentation/maxillomandibular/39.jpg"
+        },
+        {
+            "img": "Radiographs/422.JPG",
+            "seg": "Segmentation/teeth_mask/422.jpg",
+            "msk": "Segmentation/maxillomandibular/422.jpg"
+        },
+        {
+            "img": "Radiographs/779.JPG",
+            "seg": "Segmentation/teeth_mask/779.jpg",
+            "msk": "Segmentation/maxillomandibular/779.jpg"
+        },
+        {
+            "img": "Radiographs/209.JPG",
+            "seg": "Segmentation/teeth_mask/209.jpg",
+            "msk": "Segmentation/maxillomandibular/209.jpg"
+        },
+        {
+            "img": "Radiographs/125.JPG",
+            "seg": "Segmentation/teeth_mask/125.jpg",
+            "msk": "Segmentation/maxillomandibular/125.jpg"
+        },
+        {
+            "img": "Radiographs/486.JPG",
+            "seg": "Segmentation/teeth_mask/486.jpg",
+            "msk": "Segmentation/maxillomandibular/486.jpg"
+        },
+        {
+            "img": "Radiographs/228.JPG",
+            "seg": "Segmentation/teeth_mask/228.jpg",
+            "msk": "Segmentation/maxillomandibular/228.jpg"
+        },
+        {
+            "img": "Radiographs/478.JPG",
+            "seg": "Segmentation/teeth_mask/478.jpg",
+            "msk": "Segmentation/maxillomandibular/478.jpg"
+        },
+        {
+            "img": "Radiographs/415.JPG",
+            "seg": "Segmentation/teeth_mask/415.jpg",
+            "msk": "Segmentation/maxillomandibular/415.jpg"
+        },
+        {
+            "img": "Radiographs/335.JPG",
+            "seg": "Segmentation/teeth_mask/335.jpg",
+            "msk": "Segmentation/maxillomandibular/335.jpg"
+        },
+        {
+            "img": "Radiographs/986.JPG",
+            "seg": "Segmentation/teeth_mask/986.jpg",
+            "msk": "Segmentation/maxillomandibular/986.jpg"
+        },
+        {
+            "img": "Radiographs/944.JPG",
+            "seg": "Segmentation/teeth_mask/944.jpg",
+            "msk": "Segmentation/maxillomandibular/944.jpg"
+        },
+        {
+            "img": "Radiographs/512.JPG",
+            "seg": "Segmentation/teeth_mask/512.jpg",
+            "msk": "Segmentation/maxillomandibular/512.jpg"
+        },
+        {
+            "img": "Radiographs/621.JPG",
+            "seg": "Segmentation/teeth_mask/621.jpg",
+            "msk": "Segmentation/maxillomandibular/621.jpg"
+        },
+        {
+            "img": "Radiographs/227.JPG",
+            "seg": "Segmentation/teeth_mask/227.jpg",
+            "msk": "Segmentation/maxillomandibular/227.jpg"
+        },
+        {
+            "img": "Radiographs/811.JPG",
+            "seg": "Segmentation/teeth_mask/811.jpg",
+            "msk": "Segmentation/maxillomandibular/811.jpg"
+        },
+        {
+            "img": "Radiographs/912.JPG",
+            "seg": "Segmentation/teeth_mask/912.jpg",
+            "msk": "Segmentation/maxillomandibular/912.jpg"
+        },
+        {
+            "img": "Radiographs/988.JPG",
+            "seg": "Segmentation/teeth_mask/988.jpg",
+            "msk": "Segmentation/maxillomandibular/988.jpg"
+        },
+        {
+            "img": "Radiographs/466.JPG",
+            "seg": "Segmentation/teeth_mask/466.jpg",
+            "msk": "Segmentation/maxillomandibular/466.jpg"
+        },
+        {
+            "img": "Radiographs/241.JPG",
+            "seg": "Segmentation/teeth_mask/241.jpg",
+            "msk": "Segmentation/maxillomandibular/241.jpg"
+        },
+        {
+            "img": "Radiographs/48.JPG",
+            "seg": "Segmentation/teeth_mask/48.jpg",
+            "msk": "Segmentation/maxillomandibular/48.jpg"
+        },
+        {
+            "img": "Radiographs/641.JPG",
+            "seg": "Segmentation/teeth_mask/641.jpg",
+            "msk": "Segmentation/maxillomandibular/641.jpg"
+        },
+        {
+            "img": "Radiographs/497.JPG",
+            "seg": "Segmentation/teeth_mask/497.jpg",
+            "msk": "Segmentation/maxillomandibular/497.jpg"
+        },
+        {
+            "img": "Radiographs/375.JPG",
+            "seg": "Segmentation/teeth_mask/375.jpg",
+            "msk": "Segmentation/maxillomandibular/375.jpg"
+        },
+        {
+            "img": "Radiographs/339.JPG",
+            "seg": "Segmentation/teeth_mask/339.jpg",
+            "msk": "Segmentation/maxillomandibular/339.jpg"
+        },
+        {
+            "img": "Radiographs/395.JPG",
+            "seg": "Segmentation/teeth_mask/395.jpg",
+            "msk": "Segmentation/maxillomandibular/395.jpg"
+        },
+        {
+            "img": "Radiographs/582.JPG",
+            "seg": "Segmentation/teeth_mask/582.jpg",
+            "msk": "Segmentation/maxillomandibular/582.jpg"
+        },
+        {
+            "img": "Radiographs/159.JPG",
+            "seg": "Segmentation/teeth_mask/159.jpg",
+            "msk": "Segmentation/maxillomandibular/159.jpg"
+        },
+        {
+            "img": "Radiographs/880.JPG",
+            "seg": "Segmentation/teeth_mask/880.jpg",
+            "msk": "Segmentation/maxillomandibular/880.jpg"
+        },
+        {
+            "img": "Radiographs/423.JPG",
+            "seg": "Segmentation/teeth_mask/423.jpg",
+            "msk": "Segmentation/maxillomandibular/423.jpg"
+        },
+        {
+            "img": "Radiographs/82.JPG",
+            "seg": "Segmentation/teeth_mask/82.jpg",
+            "msk": "Segmentation/maxillomandibular/82.jpg"
+        },
+        {
+            "img": "Radiographs/263.JPG",
+            "seg": "Segmentation/teeth_mask/263.jpg",
+            "msk": "Segmentation/maxillomandibular/263.jpg"
+        },
+        {
+            "img": "Radiographs/147.JPG",
+            "seg": "Segmentation/teeth_mask/147.jpg",
+            "msk": "Segmentation/maxillomandibular/147.jpg"
+        },
+        {
+            "img": "Radiographs/444.JPG",
+            "seg": "Segmentation/teeth_mask/444.jpg",
+            "msk": "Segmentation/maxillomandibular/444.jpg"
+        },
+        {
+            "img": "Radiographs/370.JPG",
+            "seg": "Segmentation/teeth_mask/370.jpg",
+            "msk": "Segmentation/maxillomandibular/370.jpg"
+        },
+        {
+            "img": "Radiographs/154.JPG",
+            "seg": "Segmentation/teeth_mask/154.jpg",
+            "msk": "Segmentation/maxillomandibular/154.jpg"
+        },
+        {
+            "img": "Radiographs/319.JPG",
+            "seg": "Segmentation/teeth_mask/319.jpg",
+            "msk": "Segmentation/maxillomandibular/319.jpg"
+        },
+        {
+            "img": "Radiographs/436.JPG",
+            "seg": "Segmentation/teeth_mask/436.jpg",
+            "msk": "Segmentation/maxillomandibular/436.jpg"
+        },
+        {
+            "img": "Radiographs/371.JPG",
+            "seg": "Segmentation/teeth_mask/371.jpg",
+            "msk": "Segmentation/maxillomandibular/371.jpg"
+        },
+        {
+            "img": "Radiographs/225.JPG",
+            "seg": "Segmentation/teeth_mask/225.jpg",
+            "msk": "Segmentation/maxillomandibular/225.jpg"
+        },
+        {
+            "img": "Radiographs/991.JPG",
+            "seg": "Segmentation/teeth_mask/991.jpg",
+            "msk": "Segmentation/maxillomandibular/991.jpg"
+        },
+        {
+            "img": "Radiographs/23.JPG",
+            "seg": "Segmentation/teeth_mask/23.jpg",
+            "msk": "Segmentation/maxillomandibular/23.jpg"
+        },
+        {
+            "img": "Radiographs/976.JPG",
+            "seg": "Segmentation/teeth_mask/976.jpg",
+            "msk": "Segmentation/maxillomandibular/976.jpg"
+        },
+        {
+            "img": "Radiographs/588.JPG",
+            "seg": "Segmentation/teeth_mask/588.jpg",
+            "msk": "Segmentation/maxillomandibular/588.jpg"
+        },
+        {
+            "img": "Radiographs/81.JPG",
+            "seg": "Segmentation/teeth_mask/81.jpg",
+            "msk": "Segmentation/maxillomandibular/81.jpg"
+        },
+        {
+            "img": "Radiographs/756.JPG",
+            "seg": "Segmentation/teeth_mask/756.jpg",
+            "msk": "Segmentation/maxillomandibular/756.jpg"
+        },
+        {
+            "img": "Radiographs/594.JPG",
+            "seg": "Segmentation/teeth_mask/594.jpg",
+            "msk": "Segmentation/maxillomandibular/594.jpg"
+        },
+        {
+            "img": "Radiographs/460.JPG",
+            "seg": "Segmentation/teeth_mask/460.jpg",
+            "msk": "Segmentation/maxillomandibular/460.jpg"
+        },
+        {
+            "img": "Radiographs/694.JPG",
+            "seg": "Segmentation/teeth_mask/694.jpg",
+            "msk": "Segmentation/maxillomandibular/694.jpg"
+        },
+        {
+            "img": "Radiographs/111.JPG",
+            "seg": "Segmentation/teeth_mask/111.jpg",
+            "msk": "Segmentation/maxillomandibular/111.jpg"
+        },
+        {
+            "img": "Radiographs/854.JPG",
+            "seg": "Segmentation/teeth_mask/854.jpg",
+            "msk": "Segmentation/maxillomandibular/854.jpg"
+        },
+        {
+            "img": "Radiographs/990.JPG",
+            "seg": "Segmentation/teeth_mask/990.jpg",
+            "msk": "Segmentation/maxillomandibular/990.jpg"
+        },
+        {
+            "img": "Radiographs/200.JPG",
+            "seg": "Segmentation/teeth_mask/200.jpg",
+            "msk": "Segmentation/maxillomandibular/200.jpg"
+        },
+        {
+            "img": "Radiographs/982.JPG",
+            "seg": "Segmentation/teeth_mask/982.jpg",
+            "msk": "Segmentation/maxillomandibular/982.jpg"
+        },
+        {
+            "img": "Radiographs/864.JPG",
+            "seg": "Segmentation/teeth_mask/864.jpg",
+            "msk": "Segmentation/maxillomandibular/864.jpg"
+        },
+        {
+            "img": "Radiographs/577.JPG",
+            "seg": "Segmentation/teeth_mask/577.jpg",
+            "msk": "Segmentation/maxillomandibular/577.jpg"
+        },
+        {
+            "img": "Radiographs/451.JPG",
+            "seg": "Segmentation/teeth_mask/451.jpg",
+            "msk": "Segmentation/maxillomandibular/451.jpg"
+        },
+        {
+            "img": "Radiographs/152.JPG",
+            "seg": "Segmentation/teeth_mask/152.jpg",
+            "msk": "Segmentation/maxillomandibular/152.jpg"
+        },
+        {
+            "img": "Radiographs/98.JPG",
+            "seg": "Segmentation/teeth_mask/98.jpg",
+            "msk": "Segmentation/maxillomandibular/98.jpg"
+        },
+        {
+            "img": "Radiographs/802.JPG",
+            "seg": "Segmentation/teeth_mask/802.jpg",
+            "msk": "Segmentation/maxillomandibular/802.jpg"
+        },
+        {
+            "img": "Radiographs/901.JPG",
+            "seg": "Segmentation/teeth_mask/901.jpg",
+            "msk": "Segmentation/maxillomandibular/901.jpg"
+        },
+        {
+            "img": "Radiographs/696.JPG",
+            "seg": "Segmentation/teeth_mask/696.jpg",
+            "msk": "Segmentation/maxillomandibular/696.jpg"
+        },
+        {
+            "img": "Radiographs/381.JPG",
+            "seg": "Segmentation/teeth_mask/381.jpg",
+            "msk": "Segmentation/maxillomandibular/381.jpg"
+        },
+        {
+            "img": "Radiographs/342.JPG",
+            "seg": "Segmentation/teeth_mask/342.jpg",
+            "msk": "Segmentation/maxillomandibular/342.jpg"
+        },
+        {
+            "img": "Radiographs/910.JPG",
+            "seg": "Segmentation/teeth_mask/910.jpg",
+            "msk": "Segmentation/maxillomandibular/910.jpg"
+        },
+        {
+            "img": "Radiographs/930.JPG",
+            "seg": "Segmentation/teeth_mask/930.jpg",
+            "msk": "Segmentation/maxillomandibular/930.jpg"
+        },
+        {
+            "img": "Radiographs/878.JPG",
+            "seg": "Segmentation/teeth_mask/878.jpg",
+            "msk": "Segmentation/maxillomandibular/878.jpg"
+        },
+        {
+            "img": "Radiographs/529.JPG",
+            "seg": "Segmentation/teeth_mask/529.jpg",
+            "msk": "Segmentation/maxillomandibular/529.jpg"
+        },
+        {
+            "img": "Radiographs/638.JPG",
+            "seg": "Segmentation/teeth_mask/638.jpg",
+            "msk": "Segmentation/maxillomandibular/638.jpg"
+        },
+        {
+            "img": "Radiographs/58.JPG",
+            "seg": "Segmentation/teeth_mask/58.jpg",
+            "msk": "Segmentation/maxillomandibular/58.jpg"
+        },
+        {
+            "img": "Radiographs/886.JPG",
+            "seg": "Segmentation/teeth_mask/886.jpg",
+            "msk": "Segmentation/maxillomandibular/886.jpg"
+        },
+        {
+            "img": "Radiographs/465.JPG",
+            "seg": "Segmentation/teeth_mask/465.jpg",
+            "msk": "Segmentation/maxillomandibular/465.jpg"
+        },
+        {
+            "img": "Radiographs/635.JPG",
+            "seg": "Segmentation/teeth_mask/635.jpg",
+            "msk": "Segmentation/maxillomandibular/635.jpg"
+        },
+        {
+            "img": "Radiographs/653.JPG",
+            "seg": "Segmentation/teeth_mask/653.jpg",
+            "msk": "Segmentation/maxillomandibular/653.jpg"
+        },
+        {
+            "img": "Radiographs/767.JPG",
+            "seg": "Segmentation/teeth_mask/767.jpg",
+            "msk": "Segmentation/maxillomandibular/767.jpg"
+        },
+        {
+            "img": "Radiographs/700.JPG",
+            "seg": "Segmentation/teeth_mask/700.jpg",
+            "msk": "Segmentation/maxillomandibular/700.jpg"
+        },
+        {
+            "img": "Radiographs/66.JPG",
+            "seg": "Segmentation/teeth_mask/66.jpg",
+            "msk": "Segmentation/maxillomandibular/66.jpg"
+        },
+        {
+            "img": "Radiographs/516.JPG",
+            "seg": "Segmentation/teeth_mask/516.jpg",
+            "msk": "Segmentation/maxillomandibular/516.jpg"
+        },
+        {
+            "img": "Radiographs/37.JPG",
+            "seg": "Segmentation/teeth_mask/37.jpg",
+            "msk": "Segmentation/maxillomandibular/37.jpg"
+        },
+        {
+            "img": "Radiographs/731.JPG",
+            "seg": "Segmentation/teeth_mask/731.jpg",
+            "msk": "Segmentation/maxillomandibular/731.jpg"
+        },
+        {
+            "img": "Radiographs/143.JPG",
+            "seg": "Segmentation/teeth_mask/143.jpg",
+            "msk": "Segmentation/maxillomandibular/143.jpg"
+        },
+        {
+            "img": "Radiographs/175.JPG",
+            "seg": "Segmentation/teeth_mask/175.jpg",
+            "msk": "Segmentation/maxillomandibular/175.jpg"
+        },
+        {
+            "img": "Radiographs/129.JPG",
+            "seg": "Segmentation/teeth_mask/129.jpg",
+            "msk": "Segmentation/maxillomandibular/129.jpg"
+        },
+        {
+            "img": "Radiographs/904.JPG",
+            "seg": "Segmentation/teeth_mask/904.jpg",
+            "msk": "Segmentation/maxillomandibular/904.jpg"
+        },
+        {
+            "img": "Radiographs/388.JPG",
+            "seg": "Segmentation/teeth_mask/388.jpg",
+            "msk": "Segmentation/maxillomandibular/388.jpg"
+        },
+        {
+            "img": "Radiographs/402.JPG",
+            "seg": "Segmentation/teeth_mask/402.jpg",
+            "msk": "Segmentation/maxillomandibular/402.jpg"
+        },
+        {
+            "img": "Radiographs/468.JPG",
+            "seg": "Segmentation/teeth_mask/468.jpg",
+            "msk": "Segmentation/maxillomandibular/468.jpg"
+        },
+        {
+            "img": "Radiographs/95.JPG",
+            "seg": "Segmentation/teeth_mask/95.jpg",
+            "msk": "Segmentation/maxillomandibular/95.jpg"
+        },
+        {
+            "img": "Radiographs/365.JPG",
+            "seg": "Segmentation/teeth_mask/365.jpg",
+            "msk": "Segmentation/maxillomandibular/365.jpg"
+        },
+        {
+            "img": "Radiographs/967.JPG",
+            "seg": "Segmentation/teeth_mask/967.jpg",
+            "msk": "Segmentation/maxillomandibular/967.jpg"
+        },
+        {
+            "img": "Radiographs/495.JPG",
+            "seg": "Segmentation/teeth_mask/495.jpg",
+            "msk": "Segmentation/maxillomandibular/495.jpg"
+        },
+        {
+            "img": "Radiographs/808.JPG",
+            "seg": "Segmentation/teeth_mask/808.jpg",
+            "msk": "Segmentation/maxillomandibular/808.jpg"
+        },
+        {
+            "img": "Radiographs/891.JPG",
+            "seg": "Segmentation/teeth_mask/891.jpg",
+            "msk": "Segmentation/maxillomandibular/891.jpg"
+        },
+        {
+            "img": "Radiographs/52.JPG",
+            "seg": "Segmentation/teeth_mask/52.jpg",
+            "msk": "Segmentation/maxillomandibular/52.jpg"
+        },
+        {
+            "img": "Radiographs/44.JPG",
+            "seg": "Segmentation/teeth_mask/44.jpg",
+            "msk": "Segmentation/maxillomandibular/44.jpg"
+        },
+        {
+            "img": "Radiographs/328.JPG",
+            "seg": "Segmentation/teeth_mask/328.jpg",
+            "msk": "Segmentation/maxillomandibular/328.jpg"
+        },
+        {
+            "img": "Radiographs/101.JPG",
+            "seg": "Segmentation/teeth_mask/101.jpg",
+            "msk": "Segmentation/maxillomandibular/101.jpg"
+        },
+        {
+            "img": "Radiographs/133.JPG",
+            "seg": "Segmentation/teeth_mask/133.jpg",
+            "msk": "Segmentation/maxillomandibular/133.jpg"
+        },
+        {
+            "img": "Radiographs/142.JPG",
+            "seg": "Segmentation/teeth_mask/142.jpg",
+            "msk": "Segmentation/maxillomandibular/142.jpg"
+        },
+        {
+            "img": "Radiographs/1043.JPG",
+            "seg": "Segmentation/teeth_mask/1043.jpg",
+            "msk": "Segmentation/maxillomandibular/1043.jpg"
+        },
+        {
+            "img": "Radiographs/70.JPG",
+            "seg": "Segmentation/teeth_mask/70.jpg",
+            "msk": "Segmentation/maxillomandibular/70.jpg"
+        },
+        {
+            "img": "Radiographs/411.JPG",
+            "seg": "Segmentation/teeth_mask/411.jpg",
+            "msk": "Segmentation/maxillomandibular/411.jpg"
+        },
+        {
+            "img": "Radiographs/475.JPG",
+            "seg": "Segmentation/teeth_mask/475.jpg",
+            "msk": "Segmentation/maxillomandibular/475.jpg"
+        },
+        {
+            "img": "Radiographs/506.JPG",
+            "seg": "Segmentation/teeth_mask/506.jpg",
+            "msk": "Segmentation/maxillomandibular/506.jpg"
+        },
+        {
+            "img": "Radiographs/1027.JPG",
+            "seg": "Segmentation/teeth_mask/1027.jpg",
+            "msk": "Segmentation/maxillomandibular/1027.jpg"
+        },
+        {
+            "img": "Radiographs/394.JPG",
+            "seg": "Segmentation/teeth_mask/394.jpg",
+            "msk": "Segmentation/maxillomandibular/394.jpg"
+        },
+        {
+            "img": "Radiographs/1013.JPG",
+            "seg": "Segmentation/teeth_mask/1013.jpg",
+            "msk": "Segmentation/maxillomandibular/1013.jpg"
+        },
+        {
+            "img": "Radiographs/1018.JPG",
+            "seg": "Segmentation/teeth_mask/1018.jpg",
+            "msk": "Segmentation/maxillomandibular/1018.jpg"
+        },
+        {
+            "img": "Radiographs/919.JPG",
+            "seg": "Segmentation/teeth_mask/919.jpg",
+            "msk": "Segmentation/maxillomandibular/919.jpg"
+        },
+        {
+            "img": "Radiographs/1031.JPG",
+            "seg": "Segmentation/teeth_mask/1031.jpg",
+            "msk": "Segmentation/maxillomandibular/1031.jpg"
+        },
+        {
+            "img": "Radiographs/410.JPG",
+            "seg": "Segmentation/teeth_mask/410.jpg",
+            "msk": "Segmentation/maxillomandibular/410.jpg"
+        },
+        {
+            "img": "Radiographs/528.JPG",
+            "seg": "Segmentation/teeth_mask/528.jpg",
+            "msk": "Segmentation/maxillomandibular/528.jpg"
+        },
+        {
+            "img": "Radiographs/958.JPG",
+            "seg": "Segmentation/teeth_mask/958.jpg",
+            "msk": "Segmentation/maxillomandibular/958.jpg"
+        },
+        {
+            "img": "Radiographs/299.JPG",
+            "seg": "Segmentation/teeth_mask/299.jpg",
+            "msk": "Segmentation/maxillomandibular/299.jpg"
+        },
+        {
+            "img": "Radiographs/221.JPG",
+            "seg": "Segmentation/teeth_mask/221.jpg",
+            "msk": "Segmentation/maxillomandibular/221.jpg"
+        },
+        {
+            "img": "Radiographs/1000.JPG",
+            "seg": "Segmentation/teeth_mask/1000.jpg",
+            "msk": "Segmentation/maxillomandibular/1000.jpg"
+        },
+        {
+            "img": "Radiographs/966.JPG",
+            "seg": "Segmentation/teeth_mask/966.jpg",
+            "msk": "Segmentation/maxillomandibular/966.jpg"
+        },
+        {
+            "img": "Radiographs/893.JPG",
+            "seg": "Segmentation/teeth_mask/893.jpg",
+            "msk": "Segmentation/maxillomandibular/893.jpg"
+        },
+        {
+            "img": "Radiographs/963.JPG",
+            "seg": "Segmentation/teeth_mask/963.jpg",
+            "msk": "Segmentation/maxillomandibular/963.jpg"
+        },
+        {
+            "img": "Radiographs/432.JPG",
+            "seg": "Segmentation/teeth_mask/432.jpg",
+            "msk": "Segmentation/maxillomandibular/432.jpg"
+        },
+        {
+            "img": "Radiographs/16.JPG",
+            "seg": "Segmentation/teeth_mask/16.jpg",
+            "msk": "Segmentation/maxillomandibular/16.jpg"
+        },
+        {
+            "img": "Radiographs/279.JPG",
+            "seg": "Segmentation/teeth_mask/279.jpg",
+            "msk": "Segmentation/maxillomandibular/279.jpg"
+        },
+        {
+            "img": "Radiographs/623.JPG",
+            "seg": "Segmentation/teeth_mask/623.jpg",
+            "msk": "Segmentation/maxillomandibular/623.jpg"
+        },
+        {
+            "img": "Radiographs/705.JPG",
+            "seg": "Segmentation/teeth_mask/705.jpg",
+            "msk": "Segmentation/maxillomandibular/705.jpg"
+        },
+        {
+            "img": "Radiographs/795.JPG",
+            "seg": "Segmentation/teeth_mask/795.jpg",
+            "msk": "Segmentation/maxillomandibular/795.jpg"
+        },
+        {
+            "img": "Radiographs/865.JPG",
+            "seg": "Segmentation/teeth_mask/865.jpg",
+            "msk": "Segmentation/maxillomandibular/865.jpg"
+        },
+        {
+            "img": "Radiographs/168.JPG",
+            "seg": "Segmentation/teeth_mask/168.jpg",
+            "msk": "Segmentation/maxillomandibular/168.jpg"
+        },
+        {
+            "img": "Radiographs/69.JPG",
+            "seg": "Segmentation/teeth_mask/69.jpg",
+            "msk": "Segmentation/maxillomandibular/69.jpg"
+        },
+        {
+            "img": "Radiographs/346.JPG",
+            "seg": "Segmentation/teeth_mask/346.jpg",
+            "msk": "Segmentation/maxillomandibular/346.jpg"
+        },
+        {
+            "img": "Radiographs/150.JPG",
+            "seg": "Segmentation/teeth_mask/150.jpg",
+            "msk": "Segmentation/maxillomandibular/150.jpg"
+        },
+        {
+            "img": "Radiographs/599.JPG",
+            "seg": "Segmentation/teeth_mask/599.jpg",
+            "msk": "Segmentation/maxillomandibular/599.jpg"
+        },
+        {
+            "img": "Radiographs/242.JPG",
+            "seg": "Segmentation/teeth_mask/242.jpg",
+            "msk": "Segmentation/maxillomandibular/242.jpg"
+        },
+        {
+            "img": "Radiographs/508.JPG",
+            "seg": "Segmentation/teeth_mask/508.jpg",
+            "msk": "Segmentation/maxillomandibular/508.jpg"
+        },
+        {
+            "img": "Radiographs/78.JPG",
+            "seg": "Segmentation/teeth_mask/78.jpg",
+            "msk": "Segmentation/maxillomandibular/78.jpg"
+        },
+        {
+            "img": "Radiographs/275.JPG",
+            "seg": "Segmentation/teeth_mask/275.jpg",
+            "msk": "Segmentation/maxillomandibular/275.jpg"
+        },
+        {
+            "img": "Radiographs/558.JPG",
+            "seg": "Segmentation/teeth_mask/558.jpg",
+            "msk": "Segmentation/maxillomandibular/558.jpg"
+        },
+        {
+            "img": "Radiographs/204.JPG",
+            "seg": "Segmentation/teeth_mask/204.jpg",
+            "msk": "Segmentation/maxillomandibular/204.jpg"
+        },
+        {
+            "img": "Radiographs/418.JPG",
+            "seg": "Segmentation/teeth_mask/418.jpg",
+            "msk": "Segmentation/maxillomandibular/418.jpg"
+        },
+        {
+            "img": "Radiographs/463.JPG",
+            "seg": "Segmentation/teeth_mask/463.jpg",
+            "msk": "Segmentation/maxillomandibular/463.jpg"
+        },
+        {
+            "img": "Radiographs/515.JPG",
+            "seg": "Segmentation/teeth_mask/515.jpg",
+            "msk": "Segmentation/maxillomandibular/515.jpg"
+        },
+        {
+            "img": "Radiographs/794.JPG",
+            "seg": "Segmentation/teeth_mask/794.jpg",
+            "msk": "Segmentation/maxillomandibular/794.jpg"
+        },
+        {
+            "img": "Radiographs/380.JPG",
+            "seg": "Segmentation/teeth_mask/380.jpg",
+            "msk": "Segmentation/maxillomandibular/380.jpg"
+        },
+        {
+            "img": "Radiographs/654.JPG",
+            "seg": "Segmentation/teeth_mask/654.jpg",
+            "msk": "Segmentation/maxillomandibular/654.jpg"
+        },
+        {
+            "img": "Radiographs/569.JPG",
+            "seg": "Segmentation/teeth_mask/569.jpg",
+            "msk": "Segmentation/maxillomandibular/569.jpg"
+        },
+        {
+            "img": "Radiographs/743.JPG",
+            "seg": "Segmentation/teeth_mask/743.jpg",
+            "msk": "Segmentation/maxillomandibular/743.jpg"
+        },
+        {
+            "img": "Radiographs/556.JPG",
+            "seg": "Segmentation/teeth_mask/556.jpg",
+            "msk": "Segmentation/maxillomandibular/556.jpg"
+        },
+        {
+            "img": "Radiographs/925.JPG",
+            "seg": "Segmentation/teeth_mask/925.jpg",
+            "msk": "Segmentation/maxillomandibular/925.jpg"
+        },
+        {
+            "img": "Radiographs/401.JPG",
+            "seg": "Segmentation/teeth_mask/401.jpg",
+            "msk": "Segmentation/maxillomandibular/401.jpg"
+        },
+        {
+            "img": "Radiographs/9.JPG",
+            "seg": "Segmentation/teeth_mask/9.jpg",
+            "msk": "Segmentation/maxillomandibular/9.jpg"
+        },
+        {
+            "img": "Radiographs/476.JPG",
+            "seg": "Segmentation/teeth_mask/476.jpg",
+            "msk": "Segmentation/maxillomandibular/476.jpg"
+        },
+        {
+            "img": "Radiographs/389.JPG",
+            "seg": "Segmentation/teeth_mask/389.jpg",
+            "msk": "Segmentation/maxillomandibular/389.jpg"
+        },
+        {
+            "img": "Radiographs/461.JPG",
+            "seg": "Segmentation/teeth_mask/461.jpg",
+            "msk": "Segmentation/maxillomandibular/461.jpg"
+        },
+        {
+            "img": "Radiographs/989.JPG",
+            "seg": "Segmentation/teeth_mask/989.jpg",
+            "msk": "Segmentation/maxillomandibular/989.jpg"
+        },
+        {
+            "img": "Radiographs/985.JPG",
+            "seg": "Segmentation/teeth_mask/985.jpg",
+            "msk": "Segmentation/maxillomandibular/985.jpg"
+        },
+        {
+            "img": "Radiographs/359.JPG",
+            "seg": "Segmentation/teeth_mask/359.jpg",
+            "msk": "Segmentation/maxillomandibular/359.jpg"
+        },
+        {
+            "img": "Radiographs/500.JPG",
+            "seg": "Segmentation/teeth_mask/500.jpg",
+            "msk": "Segmentation/maxillomandibular/500.jpg"
+        },
+        {
+            "img": "Radiographs/252.JPG",
+            "seg": "Segmentation/teeth_mask/252.jpg",
+            "msk": "Segmentation/maxillomandibular/252.jpg"
+        },
+        {
+            "img": "Radiographs/102.JPG",
+            "seg": "Segmentation/teeth_mask/102.jpg",
+            "msk": "Segmentation/maxillomandibular/102.jpg"
+        },
+        {
+            "img": "Radiographs/349.JPG",
+            "seg": "Segmentation/teeth_mask/349.jpg",
+            "msk": "Segmentation/maxillomandibular/349.jpg"
+        },
+        {
+            "img": "Radiographs/744.JPG",
+            "seg": "Segmentation/teeth_mask/744.jpg",
+            "msk": "Segmentation/maxillomandibular/744.jpg"
+        },
+        {
+            "img": "Radiographs/191.JPG",
+            "seg": "Segmentation/teeth_mask/191.jpg",
+            "msk": "Segmentation/maxillomandibular/191.jpg"
+        },
+        {
+            "img": "Radiographs/763.JPG",
+            "seg": "Segmentation/teeth_mask/763.jpg",
+            "msk": "Segmentation/maxillomandibular/763.jpg"
+        },
+        {
+            "img": "Radiographs/869.JPG",
+            "seg": "Segmentation/teeth_mask/869.jpg",
+            "msk": "Segmentation/maxillomandibular/869.jpg"
+        },
+        {
+            "img": "Radiographs/587.JPG",
+            "seg": "Segmentation/teeth_mask/587.jpg",
+            "msk": "Segmentation/maxillomandibular/587.jpg"
+        },
+        {
+            "img": "Radiographs/320.JPG",
+            "seg": "Segmentation/teeth_mask/320.jpg",
+            "msk": "Segmentation/maxillomandibular/320.jpg"
+        },
+        {
+            "img": "Radiographs/908.JPG",
+            "seg": "Segmentation/teeth_mask/908.jpg",
+            "msk": "Segmentation/maxillomandibular/908.jpg"
+        },
+        {
+            "img": "Radiographs/22.JPG",
+            "seg": "Segmentation/teeth_mask/22.jpg",
+            "msk": "Segmentation/maxillomandibular/22.jpg"
+        },
+        {
+            "img": "Radiographs/456.JPG",
+            "seg": "Segmentation/teeth_mask/456.jpg",
+            "msk": "Segmentation/maxillomandibular/456.jpg"
+        },
+        {
+            "img": "Radiographs/211.JPG",
+            "seg": "Segmentation/teeth_mask/211.jpg",
+            "msk": "Segmentation/maxillomandibular/211.jpg"
+        },
+        {
+            "img": "Radiographs/579.JPG",
+            "seg": "Segmentation/teeth_mask/579.jpg",
+            "msk": "Segmentation/maxillomandibular/579.jpg"
+        },
+        {
+            "img": "Radiographs/961.JPG",
+            "seg": "Segmentation/teeth_mask/961.jpg",
+            "msk": "Segmentation/maxillomandibular/961.jpg"
+        },
+        {
+            "img": "Radiographs/28.JPG",
+            "seg": "Segmentation/teeth_mask/28.jpg",
+            "msk": "Segmentation/maxillomandibular/28.jpg"
+        },
+        {
+            "img": "Radiographs/879.JPG",
+            "seg": "Segmentation/teeth_mask/879.jpg",
+            "msk": "Segmentation/maxillomandibular/879.jpg"
+        },
+        {
+            "img": "Radiographs/992.JPG",
+            "seg": "Segmentation/teeth_mask/992.jpg",
+            "msk": "Segmentation/maxillomandibular/992.jpg"
+        },
+        {
+            "img": "Radiographs/826.JPG",
+            "seg": "Segmentation/teeth_mask/826.jpg",
+            "msk": "Segmentation/maxillomandibular/826.jpg"
+        },
+        {
+            "img": "Radiographs/664.JPG",
+            "seg": "Segmentation/teeth_mask/664.jpg",
+            "msk": "Segmentation/maxillomandibular/664.jpg"
+        },
+        {
+            "img": "Radiographs/765.JPG",
+            "seg": "Segmentation/teeth_mask/765.jpg",
+            "msk": "Segmentation/maxillomandibular/765.jpg"
+        },
+        {
+            "img": "Radiographs/931.JPG",
+            "seg": "Segmentation/teeth_mask/931.jpg",
+            "msk": "Segmentation/maxillomandibular/931.jpg"
+        },
+        {
+            "img": "Radiographs/842.JPG",
+            "seg": "Segmentation/teeth_mask/842.jpg",
+            "msk": "Segmentation/maxillomandibular/842.jpg"
+        },
+        {
+            "img": "Radiographs/501.JPG",
+            "seg": "Segmentation/teeth_mask/501.jpg",
+            "msk": "Segmentation/maxillomandibular/501.jpg"
+        },
+        {
+            "img": "Radiographs/493.JPG",
+            "seg": "Segmentation/teeth_mask/493.jpg",
+            "msk": "Segmentation/maxillomandibular/493.jpg"
+        },
+        {
+            "img": "Radiographs/680.JPG",
+            "seg": "Segmentation/teeth_mask/680.jpg",
+            "msk": "Segmentation/maxillomandibular/680.jpg"
+        },
+        {
+            "img": "Radiographs/665.JPG",
+            "seg": "Segmentation/teeth_mask/665.jpg",
+            "msk": "Segmentation/maxillomandibular/665.jpg"
+        },
+        {
+            "img": "Radiographs/751.JPG",
+            "seg": "Segmentation/teeth_mask/751.jpg",
+            "msk": "Segmentation/maxillomandibular/751.jpg"
+        },
+        {
+            "img": "Radiographs/679.JPG",
+            "seg": "Segmentation/teeth_mask/679.jpg",
+            "msk": "Segmentation/maxillomandibular/679.jpg"
+        },
+        {
+            "img": "Radiographs/97.JPG",
+            "seg": "Segmentation/teeth_mask/97.jpg",
+            "msk": "Segmentation/maxillomandibular/97.jpg"
+        },
+        {
+            "img": "Radiographs/969.JPG",
+            "seg": "Segmentation/teeth_mask/969.jpg",
+            "msk": "Segmentation/maxillomandibular/969.jpg"
+        },
+        {
+            "img": "Radiographs/607.JPG",
+            "seg": "Segmentation/teeth_mask/607.jpg",
+            "msk": "Segmentation/maxillomandibular/607.jpg"
+        },
+        {
+            "img": "Radiographs/296.JPG",
+            "seg": "Segmentation/teeth_mask/296.jpg",
+            "msk": "Segmentation/maxillomandibular/296.jpg"
+        },
+        {
+            "img": "Radiographs/1041.JPG",
+            "seg": "Segmentation/teeth_mask/1041.jpg",
+            "msk": "Segmentation/maxillomandibular/1041.jpg"
+        },
+        {
+            "img": "Radiographs/11.JPG",
+            "seg": "Segmentation/teeth_mask/11.jpg",
+            "msk": "Segmentation/maxillomandibular/11.jpg"
+        },
+        {
+            "img": "Radiographs/471.JPG",
+            "seg": "Segmentation/teeth_mask/471.jpg",
+            "msk": "Segmentation/maxillomandibular/471.jpg"
+        },
+        {
+            "img": "Radiographs/390.JPG",
+            "seg": "Segmentation/teeth_mask/390.jpg",
+            "msk": "Segmentation/maxillomandibular/390.jpg"
+        },
+        {
+            "img": "Radiographs/360.JPG",
+            "seg": "Segmentation/teeth_mask/360.jpg",
+            "msk": "Segmentation/maxillomandibular/360.jpg"
+        },
+        {
+            "img": "Radiographs/606.JPG",
+            "seg": "Segmentation/teeth_mask/606.jpg",
+            "msk": "Segmentation/maxillomandibular/606.jpg"
+        },
+        {
+            "img": "Radiographs/661.JPG",
+            "seg": "Segmentation/teeth_mask/661.jpg",
+            "msk": "Segmentation/maxillomandibular/661.jpg"
+        },
+        {
+            "img": "Radiographs/752.JPG",
+            "seg": "Segmentation/teeth_mask/752.jpg",
+            "msk": "Segmentation/maxillomandibular/752.jpg"
+        },
+        {
+            "img": "Radiographs/608.JPG",
+            "seg": "Segmentation/teeth_mask/608.jpg",
+            "msk": "Segmentation/maxillomandibular/608.jpg"
+        },
+        {
+            "img": "Radiographs/821.JPG",
+            "seg": "Segmentation/teeth_mask/821.jpg",
+            "msk": "Segmentation/maxillomandibular/821.jpg"
+        },
+        {
+            "img": "Radiographs/818.JPG",
+            "seg": "Segmentation/teeth_mask/818.jpg",
+            "msk": "Segmentation/maxillomandibular/818.jpg"
+        },
+        {
+            "img": "Radiographs/291.JPG",
+            "seg": "Segmentation/teeth_mask/291.jpg",
+            "msk": "Segmentation/maxillomandibular/291.jpg"
+        },
+        {
+            "img": "Radiographs/314.JPG",
+            "seg": "Segmentation/teeth_mask/314.jpg",
+            "msk": "Segmentation/maxillomandibular/314.jpg"
+        },
+        {
+            "img": "Radiographs/596.JPG",
+            "seg": "Segmentation/teeth_mask/596.jpg",
+            "msk": "Segmentation/maxillomandibular/596.jpg"
+        },
+        {
+            "img": "Radiographs/322.JPG",
+            "seg": "Segmentation/teeth_mask/322.jpg",
+            "msk": "Segmentation/maxillomandibular/322.jpg"
+        },
+        {
+            "img": "Radiographs/303.JPG",
+            "seg": "Segmentation/teeth_mask/303.jpg",
+            "msk": "Segmentation/maxillomandibular/303.jpg"
+        },
+        {
+            "img": "Radiographs/290.JPG",
+            "seg": "Segmentation/teeth_mask/290.jpg",
+            "msk": "Segmentation/maxillomandibular/290.jpg"
+        },
+        {
+            "img": "Radiographs/315.JPG",
+            "seg": "Segmentation/teeth_mask/315.jpg",
+            "msk": "Segmentation/maxillomandibular/315.jpg"
+        },
+        {
+            "img": "Radiographs/535.JPG",
+            "seg": "Segmentation/teeth_mask/535.jpg",
+            "msk": "Segmentation/maxillomandibular/535.jpg"
+        },
+        {
+            "img": "Radiographs/318.JPG",
+            "seg": "Segmentation/teeth_mask/318.jpg",
+            "msk": "Segmentation/maxillomandibular/318.jpg"
+        },
+        {
+            "img": "Radiographs/1012.JPG",
+            "seg": "Segmentation/teeth_mask/1012.jpg",
+            "msk": "Segmentation/maxillomandibular/1012.jpg"
+        },
+        {
+            "img": "Radiographs/762.JPG",
+            "seg": "Segmentation/teeth_mask/762.jpg",
+            "msk": "Segmentation/maxillomandibular/762.jpg"
+        },
+        {
+            "img": "Radiographs/655.JPG",
+            "seg": "Segmentation/teeth_mask/655.jpg",
+            "msk": "Segmentation/maxillomandibular/655.jpg"
+        },
+        {
+            "img": "Radiographs/265.JPG",
+            "seg": "Segmentation/teeth_mask/265.jpg",
+            "msk": "Segmentation/maxillomandibular/265.jpg"
+        },
+        {
+            "img": "Radiographs/327.JPG",
+            "seg": "Segmentation/teeth_mask/327.jpg",
+            "msk": "Segmentation/maxillomandibular/327.jpg"
+        },
+        {
+            "img": "Radiographs/109.JPG",
+            "seg": "Segmentation/teeth_mask/109.jpg",
+            "msk": "Segmentation/maxillomandibular/109.jpg"
+        },
+        {
+            "img": "Radiographs/993.JPG",
+            "seg": "Segmentation/teeth_mask/993.jpg",
+            "msk": "Segmentation/maxillomandibular/993.jpg"
+        },
+        {
+            "img": "Radiographs/49.JPG",
+            "seg": "Segmentation/teeth_mask/49.jpg",
+            "msk": "Segmentation/maxillomandibular/49.jpg"
+        },
+        {
+            "img": "Radiographs/957.JPG",
+            "seg": "Segmentation/teeth_mask/957.jpg",
+            "msk": "Segmentation/maxillomandibular/957.jpg"
+        },
+        {
+            "img": "Radiographs/945.JPG",
+            "seg": "Segmentation/teeth_mask/945.jpg",
+            "msk": "Segmentation/maxillomandibular/945.jpg"
+        },
+        {
+            "img": "Radiographs/685.JPG",
+            "seg": "Segmentation/teeth_mask/685.jpg",
+            "msk": "Segmentation/maxillomandibular/685.jpg"
+        },
+        {
+            "img": "Radiographs/431.JPG",
+            "seg": "Segmentation/teeth_mask/431.jpg",
+            "msk": "Segmentation/maxillomandibular/431.jpg"
+        },
+        {
+            "img": "Radiographs/658.JPG",
+            "seg": "Segmentation/teeth_mask/658.jpg",
+            "msk": "Segmentation/maxillomandibular/658.jpg"
+        },
+        {
+            "img": "Radiographs/903.JPG",
+            "seg": "Segmentation/teeth_mask/903.jpg",
+            "msk": "Segmentation/maxillomandibular/903.jpg"
+        },
+        {
+            "img": "Radiographs/871.JPG",
+            "seg": "Segmentation/teeth_mask/871.jpg",
+            "msk": "Segmentation/maxillomandibular/871.jpg"
+        },
+        {
+            "img": "Radiographs/707.JPG",
+            "seg": "Segmentation/teeth_mask/707.jpg",
+            "msk": "Segmentation/maxillomandibular/707.jpg"
+        },
+        {
+            "img": "Radiographs/902.JPG",
+            "seg": "Segmentation/teeth_mask/902.jpg",
+            "msk": "Segmentation/maxillomandibular/902.jpg"
+        },
+        {
+            "img": "Radiographs/734.JPG",
+            "seg": "Segmentation/teeth_mask/734.jpg",
+            "msk": "Segmentation/maxillomandibular/734.jpg"
+        },
+        {
+            "img": "Radiographs/911.JPG",
+            "seg": "Segmentation/teeth_mask/911.jpg",
+            "msk": "Segmentation/maxillomandibular/911.jpg"
+        },
+        {
+            "img": "Radiographs/110.JPG",
+            "seg": "Segmentation/teeth_mask/110.jpg",
+            "msk": "Segmentation/maxillomandibular/110.jpg"
+        },
+        {
+            "img": "Radiographs/524.JPG",
+            "seg": "Segmentation/teeth_mask/524.jpg",
+            "msk": "Segmentation/maxillomandibular/524.jpg"
+        },
+        {
+            "img": "Radiographs/617.JPG",
+            "seg": "Segmentation/teeth_mask/617.jpg",
+            "msk": "Segmentation/maxillomandibular/617.jpg"
+        },
+        {
+            "img": "Radiographs/525.JPG",
+            "seg": "Segmentation/teeth_mask/525.jpg",
+            "msk": "Segmentation/maxillomandibular/525.jpg"
+        },
+        {
+            "img": "Radiographs/146.JPG",
+            "seg": "Segmentation/teeth_mask/146.jpg",
+            "msk": "Segmentation/maxillomandibular/146.jpg"
+        },
+        {
+            "img": "Radiographs/719.JPG",
+            "seg": "Segmentation/teeth_mask/719.jpg",
+            "msk": "Segmentation/maxillomandibular/719.jpg"
+        },
+        {
+            "img": "Radiographs/877.JPG",
+            "seg": "Segmentation/teeth_mask/877.jpg",
+            "msk": "Segmentation/maxillomandibular/877.jpg"
+        },
+        {
+            "img": "Radiographs/639.JPG",
+            "seg": "Segmentation/teeth_mask/639.jpg",
+            "msk": "Segmentation/maxillomandibular/639.jpg"
+        },
+        {
+            "img": "Radiographs/212.JPG",
+            "seg": "Segmentation/teeth_mask/212.jpg",
+            "msk": "Segmentation/maxillomandibular/212.jpg"
+        },
+        {
+            "img": "Radiographs/280.JPG",
+            "seg": "Segmentation/teeth_mask/280.jpg",
+            "msk": "Segmentation/maxillomandibular/280.jpg"
+        },
+        {
+            "img": "Radiographs/406.JPG",
+            "seg": "Segmentation/teeth_mask/406.jpg",
+            "msk": "Segmentation/maxillomandibular/406.jpg"
+        },
+        {
+            "img": "Radiographs/231.JPG",
+            "seg": "Segmentation/teeth_mask/231.jpg",
+            "msk": "Segmentation/maxillomandibular/231.jpg"
+        },
+        {
+            "img": "Radiographs/452.JPG",
+            "seg": "Segmentation/teeth_mask/452.jpg",
+            "msk": "Segmentation/maxillomandibular/452.jpg"
+        },
+        {
+            "img": "Radiographs/907.JPG",
+            "seg": "Segmentation/teeth_mask/907.jpg",
+            "msk": "Segmentation/maxillomandibular/907.jpg"
+        },
+        {
+            "img": "Radiographs/187.JPG",
+            "seg": "Segmentation/teeth_mask/187.jpg",
+            "msk": "Segmentation/maxillomandibular/187.jpg"
+        },
+        {
+            "img": "Radiographs/438.JPG",
+            "seg": "Segmentation/teeth_mask/438.jpg",
+            "msk": "Segmentation/maxillomandibular/438.jpg"
+        },
+        {
+            "img": "Radiographs/276.JPG",
+            "seg": "Segmentation/teeth_mask/276.jpg",
+            "msk": "Segmentation/maxillomandibular/276.jpg"
+        },
+        {
+            "img": "Radiographs/1016.JPG",
+            "seg": "Segmentation/teeth_mask/1016.jpg",
+            "msk": "Segmentation/maxillomandibular/1016.jpg"
+        },
+        {
+            "img": "Radiographs/809.JPG",
+            "seg": "Segmentation/teeth_mask/809.jpg",
+            "msk": "Segmentation/maxillomandibular/809.jpg"
+        },
+        {
+            "img": "Radiographs/688.JPG",
+            "seg": "Segmentation/teeth_mask/688.jpg",
+            "msk": "Segmentation/maxillomandibular/688.jpg"
+        },
+        {
+            "img": "Radiographs/933.JPG",
+            "seg": "Segmentation/teeth_mask/933.jpg",
+            "msk": "Segmentation/maxillomandibular/933.jpg"
+        },
+        {
+            "img": "Radiographs/723.JPG",
+            "seg": "Segmentation/teeth_mask/723.jpg",
+            "msk": "Segmentation/maxillomandibular/723.jpg"
+        },
+        {
+            "img": "Radiographs/258.JPG",
+            "seg": "Segmentation/teeth_mask/258.jpg",
+            "msk": "Segmentation/maxillomandibular/258.jpg"
+        },
+        {
+            "img": "Radiographs/169.JPG",
+            "seg": "Segmentation/teeth_mask/169.jpg",
+            "msk": "Segmentation/maxillomandibular/169.jpg"
+        },
+        {
+            "img": "Radiographs/568.JPG",
+            "seg": "Segmentation/teeth_mask/568.jpg",
+            "msk": "Segmentation/maxillomandibular/568.jpg"
+        },
+        {
+            "img": "Radiographs/282.JPG",
+            "seg": "Segmentation/teeth_mask/282.jpg",
+            "msk": "Segmentation/maxillomandibular/282.jpg"
+        },
+        {
+            "img": "Radiographs/793.JPG",
+            "seg": "Segmentation/teeth_mask/793.jpg",
+            "msk": "Segmentation/maxillomandibular/793.jpg"
+        },
+        {
+            "img": "Radiographs/482.JPG",
+            "seg": "Segmentation/teeth_mask/482.jpg",
+            "msk": "Segmentation/maxillomandibular/482.jpg"
+        },
+        {
+            "img": "Radiographs/830.JPG",
+            "seg": "Segmentation/teeth_mask/830.jpg",
+            "msk": "Segmentation/maxillomandibular/830.jpg"
+        },
+        {
+            "img": "Radiographs/77.JPG",
+            "seg": "Segmentation/teeth_mask/77.jpg",
+            "msk": "Segmentation/maxillomandibular/77.jpg"
+        },
+        {
+            "img": "Radiographs/53.JPG",
+            "seg": "Segmentation/teeth_mask/53.jpg",
+            "msk": "Segmentation/maxillomandibular/53.jpg"
+        },
+        {
+            "img": "Radiographs/87.JPG",
+            "seg": "Segmentation/teeth_mask/87.jpg",
+            "msk": "Segmentation/maxillomandibular/87.jpg"
+        },
+        {
+            "img": "Radiographs/40.JPG",
+            "seg": "Segmentation/teeth_mask/40.jpg",
+            "msk": "Segmentation/maxillomandibular/40.jpg"
+        },
+        {
+            "img": "Radiographs/13.JPG",
+            "seg": "Segmentation/teeth_mask/13.jpg",
+            "msk": "Segmentation/maxillomandibular/13.jpg"
+        },
+        {
+            "img": "Radiographs/64.JPG",
+            "seg": "Segmentation/teeth_mask/64.jpg",
+            "msk": "Segmentation/maxillomandibular/64.jpg"
+        },
+        {
+            "img": "Radiographs/584.JPG",
+            "seg": "Segmentation/teeth_mask/584.jpg",
+            "msk": "Segmentation/maxillomandibular/584.jpg"
+        },
+        {
+            "img": "Radiographs/505.JPG",
+            "seg": "Segmentation/teeth_mask/505.jpg",
+            "msk": "Segmentation/maxillomandibular/505.jpg"
+        },
+        {
+            "img": "Radiographs/561.JPG",
+            "seg": "Segmentation/teeth_mask/561.jpg",
+            "msk": "Segmentation/maxillomandibular/561.jpg"
+        },
+        {
+            "img": "Radiographs/334.JPG",
+            "seg": "Segmentation/teeth_mask/334.jpg",
+            "msk": "Segmentation/maxillomandibular/334.jpg"
+        },
+        {
+            "img": "Radiographs/645.JPG",
+            "seg": "Segmentation/teeth_mask/645.jpg",
+            "msk": "Segmentation/maxillomandibular/645.jpg"
+        },
+        {
+            "img": "Radiographs/355.JPG",
+            "seg": "Segmentation/teeth_mask/355.jpg",
+            "msk": "Segmentation/maxillomandibular/355.jpg"
+        },
+        {
+            "img": "Radiographs/238.JPG",
+            "seg": "Segmentation/teeth_mask/238.jpg",
+            "msk": "Segmentation/maxillomandibular/238.jpg"
+        },
+        {
+            "img": "Radiographs/139.JPG",
+            "seg": "Segmentation/teeth_mask/139.jpg",
+            "msk": "Segmentation/maxillomandibular/139.jpg"
+        },
+        {
+            "img": "Radiographs/959.JPG",
+            "seg": "Segmentation/teeth_mask/959.jpg",
+            "msk": "Segmentation/maxillomandibular/959.jpg"
+        },
+        {
+            "img": "Radiographs/1014.JPG",
+            "seg": "Segmentation/teeth_mask/1014.jpg",
+            "msk": "Segmentation/maxillomandibular/1014.jpg"
+        },
+        {
+            "img": "Radiographs/1051.JPG",
+            "seg": "Segmentation/teeth_mask/1051.jpg",
+            "msk": "Segmentation/maxillomandibular/1051.jpg"
+        },
+        {
+            "img": "Radiographs/882.JPG",
+            "seg": "Segmentation/teeth_mask/882.jpg",
+            "msk": "Segmentation/maxillomandibular/882.jpg"
+        },
+        {
+            "img": "Radiographs/548.JPG",
+            "seg": "Segmentation/teeth_mask/548.jpg",
+            "msk": "Segmentation/maxillomandibular/548.jpg"
+        },
+        {
+            "img": "Radiographs/676.JPG",
+            "seg": "Segmentation/teeth_mask/676.jpg",
+            "msk": "Segmentation/maxillomandibular/676.jpg"
+        },
+        {
+            "img": "Radiographs/484.JPG",
+            "seg": "Segmentation/teeth_mask/484.jpg",
+            "msk": "Segmentation/maxillomandibular/484.jpg"
+        },
+        {
+            "img": "Radiographs/766.JPG",
+            "seg": "Segmentation/teeth_mask/766.jpg",
+            "msk": "Segmentation/maxillomandibular/766.jpg"
+        },
+        {
+            "img": "Radiographs/155.JPG",
+            "seg": "Segmentation/teeth_mask/155.jpg",
+            "msk": "Segmentation/maxillomandibular/155.jpg"
+        },
+        {
+            "img": "Radiographs/824.JPG",
+            "seg": "Segmentation/teeth_mask/824.jpg",
+            "msk": "Segmentation/maxillomandibular/824.jpg"
+        },
+        {
+            "img": "Radiographs/970.JPG",
+            "seg": "Segmentation/teeth_mask/970.jpg",
+            "msk": "Segmentation/maxillomandibular/970.jpg"
+        },
+        {
+            "img": "Radiographs/443.JPG",
+            "seg": "Segmentation/teeth_mask/443.jpg",
+            "msk": "Segmentation/maxillomandibular/443.jpg"
+        },
+        {
+            "img": "Radiographs/656.JPG",
+            "seg": "Segmentation/teeth_mask/656.jpg",
+            "msk": "Segmentation/maxillomandibular/656.jpg"
+        },
+        {
+            "img": "Radiographs/59.JPG",
+            "seg": "Segmentation/teeth_mask/59.jpg",
+            "msk": "Segmentation/maxillomandibular/59.jpg"
+        },
+        {
+            "img": "Radiographs/105.JPG",
+            "seg": "Segmentation/teeth_mask/105.jpg",
+            "msk": "Segmentation/maxillomandibular/105.jpg"
+        },
+        {
+            "img": "Radiographs/924.JPG",
+            "seg": "Segmentation/teeth_mask/924.jpg",
+            "msk": "Segmentation/maxillomandibular/924.jpg"
+        },
+        {
+            "img": "Radiographs/819.JPG",
+            "seg": "Segmentation/teeth_mask/819.jpg",
+            "msk": "Segmentation/maxillomandibular/819.jpg"
+        },
+        {
+            "img": "Radiographs/138.JPG",
+            "seg": "Segmentation/teeth_mask/138.jpg",
+            "msk": "Segmentation/maxillomandibular/138.jpg"
+        },
+        {
+            "img": "Radiographs/552.JPG",
+            "seg": "Segmentation/teeth_mask/552.jpg",
+            "msk": "Segmentation/maxillomandibular/552.jpg"
+        },
+        {
+            "img": "Radiographs/92.JPG",
+            "seg": "Segmentation/teeth_mask/92.jpg",
+            "msk": "Segmentation/maxillomandibular/92.jpg"
+        },
+        {
+            "img": "Radiographs/393.JPG",
+            "seg": "Segmentation/teeth_mask/393.jpg",
+            "msk": "Segmentation/maxillomandibular/393.jpg"
+        },
+        {
+            "img": "Radiographs/195.JPG",
+            "seg": "Segmentation/teeth_mask/195.jpg",
+            "msk": "Segmentation/maxillomandibular/195.jpg"
+        },
+        {
+            "img": "Radiographs/56.JPG",
+            "seg": "Segmentation/teeth_mask/56.jpg",
+            "msk": "Segmentation/maxillomandibular/56.jpg"
+        },
+        {
+            "img": "Radiographs/256.JPG",
+            "seg": "Segmentation/teeth_mask/256.jpg",
+            "msk": "Segmentation/maxillomandibular/256.jpg"
+        },
+        {
+            "img": "Radiographs/68.JPG",
+            "seg": "Segmentation/teeth_mask/68.jpg",
+            "msk": "Segmentation/maxillomandibular/68.jpg"
+        },
+        {
+            "img": "Radiographs/834.JPG",
+            "seg": "Segmentation/teeth_mask/834.jpg",
+            "msk": "Segmentation/maxillomandibular/834.jpg"
+        },
+        {
+            "img": "Radiographs/1046.JPG",
+            "seg": "Segmentation/teeth_mask/1046.jpg",
+            "msk": "Segmentation/maxillomandibular/1046.jpg"
+        },
+        {
+            "img": "Radiographs/737.JPG",
+            "seg": "Segmentation/teeth_mask/737.jpg",
+            "msk": "Segmentation/maxillomandibular/737.jpg"
+        },
+        {
+            "img": "Radiographs/434.JPG",
+            "seg": "Segmentation/teeth_mask/434.jpg",
+            "msk": "Segmentation/maxillomandibular/434.jpg"
+        },
+        {
+            "img": "Radiographs/467.JPG",
+            "seg": "Segmentation/teeth_mask/467.jpg",
+            "msk": "Segmentation/maxillomandibular/467.jpg"
+        },
+        {
+            "img": "Radiographs/825.JPG",
+            "seg": "Segmentation/teeth_mask/825.jpg",
+            "msk": "Segmentation/maxillomandibular/825.jpg"
+        },
+        {
+            "img": "Radiographs/873.JPG",
+            "seg": "Segmentation/teeth_mask/873.jpg",
+            "msk": "Segmentation/maxillomandibular/873.jpg"
+        },
+        {
+            "img": "Radiographs/947.JPG",
+            "seg": "Segmentation/teeth_mask/947.jpg",
+            "msk": "Segmentation/maxillomandibular/947.jpg"
+        },
+        {
+            "img": "Radiographs/698.JPG",
+            "seg": "Segmentation/teeth_mask/698.jpg",
+            "msk": "Segmentation/maxillomandibular/698.jpg"
+        },
+        {
+            "img": "Radiographs/88.JPG",
+            "seg": "Segmentation/teeth_mask/88.jpg",
+            "msk": "Segmentation/maxillomandibular/88.jpg"
+        },
+        {
+            "img": "Radiographs/839.JPG",
+            "seg": "Segmentation/teeth_mask/839.jpg",
+            "msk": "Segmentation/maxillomandibular/839.jpg"
+        },
+        {
+            "img": "Radiographs/805.JPG",
+            "seg": "Segmentation/teeth_mask/805.jpg",
+            "msk": "Segmentation/maxillomandibular/805.jpg"
+        },
+        {
+            "img": "Radiographs/999.JPG",
+            "seg": "Segmentation/teeth_mask/999.jpg",
+            "msk": "Segmentation/maxillomandibular/999.jpg"
+        },
+        {
+            "img": "Radiographs/905.JPG",
+            "seg": "Segmentation/teeth_mask/905.jpg",
+            "msk": "Segmentation/maxillomandibular/905.jpg"
+        },
+        {
+            "img": "Radiographs/216.JPG",
+            "seg": "Segmentation/teeth_mask/216.jpg",
+            "msk": "Segmentation/maxillomandibular/216.jpg"
+        },
+        {
+            "img": "Radiographs/974.JPG",
+            "seg": "Segmentation/teeth_mask/974.jpg",
+            "msk": "Segmentation/maxillomandibular/974.jpg"
+        },
+        {
+            "img": "Radiographs/547.JPG",
+            "seg": "Segmentation/teeth_mask/547.jpg",
+            "msk": "Segmentation/maxillomandibular/547.jpg"
+        },
+        {
+            "img": "Radiographs/703.JPG",
+            "seg": "Segmentation/teeth_mask/703.jpg",
+            "msk": "Segmentation/maxillomandibular/703.jpg"
+        },
+        {
+            "img": "Radiographs/288.JPG",
+            "seg": "Segmentation/teeth_mask/288.jpg",
+            "msk": "Segmentation/maxillomandibular/288.jpg"
+        },
+        {
+            "img": "Radiographs/657.JPG",
+            "seg": "Segmentation/teeth_mask/657.jpg",
+            "msk": "Segmentation/maxillomandibular/657.jpg"
+        },
+        {
+            "img": "Radiographs/292.JPG",
+            "seg": "Segmentation/teeth_mask/292.jpg",
+            "msk": "Segmentation/maxillomandibular/292.jpg"
+        },
+        {
+            "img": "Radiographs/792.JPG",
+            "seg": "Segmentation/teeth_mask/792.jpg",
+            "msk": "Segmentation/maxillomandibular/792.jpg"
+        },
+        {
+            "img": "Radiographs/870.JPG",
+            "seg": "Segmentation/teeth_mask/870.jpg",
+            "msk": "Segmentation/maxillomandibular/870.jpg"
+        },
+        {
+            "img": "Radiographs/496.JPG",
+            "seg": "Segmentation/teeth_mask/496.jpg",
+            "msk": "Segmentation/maxillomandibular/496.jpg"
+        },
+        {
+            "img": "Radiographs/816.JPG",
+            "seg": "Segmentation/teeth_mask/816.jpg",
+            "msk": "Segmentation/maxillomandibular/816.jpg"
+        },
+        {
+            "img": "Radiographs/448.JPG",
+            "seg": "Segmentation/teeth_mask/448.jpg",
+            "msk": "Segmentation/maxillomandibular/448.jpg"
+        },
+        {
+            "img": "Radiographs/308.JPG",
+            "seg": "Segmentation/teeth_mask/308.jpg",
+            "msk": "Segmentation/maxillomandibular/308.jpg"
+        },
+        {
+            "img": "Radiographs/442.JPG",
+            "seg": "Segmentation/teeth_mask/442.jpg",
+            "msk": "Segmentation/maxillomandibular/442.jpg"
+        },
+        {
+            "img": "Radiographs/827.JPG",
+            "seg": "Segmentation/teeth_mask/827.jpg",
+            "msk": "Segmentation/maxillomandibular/827.jpg"
+        },
+        {
+            "img": "Radiographs/376.JPG",
+            "seg": "Segmentation/teeth_mask/376.jpg",
+            "msk": "Segmentation/maxillomandibular/376.jpg"
+        },
+        {
+            "img": "Radiographs/636.JPG",
+            "seg": "Segmentation/teeth_mask/636.jpg",
+            "msk": "Segmentation/maxillomandibular/636.jpg"
+        },
+        {
+            "img": "Radiographs/453.JPG",
+            "seg": "Segmentation/teeth_mask/453.jpg",
+            "msk": "Segmentation/maxillomandibular/453.jpg"
+        },
+        {
+            "img": "Radiographs/730.JPG",
+            "seg": "Segmentation/teeth_mask/730.jpg",
+            "msk": "Segmentation/maxillomandibular/730.jpg"
+        },
+        {
+            "img": "Radiographs/581.JPG",
+            "seg": "Segmentation/teeth_mask/581.jpg",
+            "msk": "Segmentation/maxillomandibular/581.jpg"
+        },
+        {
+            "img": "Radiographs/224.JPG",
+            "seg": "Segmentation/teeth_mask/224.jpg",
+            "msk": "Segmentation/maxillomandibular/224.jpg"
+        },
+        {
+            "img": "Radiographs/385.JPG",
+            "seg": "Segmentation/teeth_mask/385.jpg",
+            "msk": "Segmentation/maxillomandibular/385.jpg"
+        },
+        {
+            "img": "Radiographs/857.JPG",
+            "seg": "Segmentation/teeth_mask/857.jpg",
+            "msk": "Segmentation/maxillomandibular/857.jpg"
+        },
+        {
+            "img": "Radiographs/199.JPG",
+            "seg": "Segmentation/teeth_mask/199.jpg",
+            "msk": "Segmentation/maxillomandibular/199.jpg"
+        },
+        {
+            "img": "Radiographs/539.JPG",
+            "seg": "Segmentation/teeth_mask/539.jpg",
+            "msk": "Segmentation/maxillomandibular/539.jpg"
+        },
+        {
+            "img": "Radiographs/186.JPG",
+            "seg": "Segmentation/teeth_mask/186.jpg",
+            "msk": "Segmentation/maxillomandibular/186.jpg"
+        },
+        {
+            "img": "Radiographs/1042.JPG",
+            "seg": "Segmentation/teeth_mask/1042.jpg",
+            "msk": "Segmentation/maxillomandibular/1042.jpg"
+        },
+        {
+            "img": "Radiographs/932.JPG",
+            "seg": "Segmentation/teeth_mask/932.jpg",
+            "msk": "Segmentation/maxillomandibular/932.jpg"
+        },
+        {
+            "img": "Radiographs/30.JPG",
+            "seg": "Segmentation/teeth_mask/30.jpg",
+            "msk": "Segmentation/maxillomandibular/30.jpg"
+        },
+        {
+            "img": "Radiographs/196.JPG",
+            "seg": "Segmentation/teeth_mask/196.jpg",
+            "msk": "Segmentation/maxillomandibular/196.jpg"
+        },
+        {
+            "img": "Radiographs/194.JPG",
+            "seg": "Segmentation/teeth_mask/194.jpg",
+            "msk": "Segmentation/maxillomandibular/194.jpg"
+        },
+        {
+            "img": "Radiographs/316.JPG",
+            "seg": "Segmentation/teeth_mask/316.jpg",
+            "msk": "Segmentation/maxillomandibular/316.jpg"
+        },
+        {
+            "img": "Radiographs/93.JPG",
+            "seg": "Segmentation/teeth_mask/93.jpg",
+            "msk": "Segmentation/maxillomandibular/93.jpg"
+        },
+        {
+            "img": "Radiographs/851.JPG",
+            "seg": "Segmentation/teeth_mask/851.jpg",
+            "msk": "Segmentation/maxillomandibular/851.jpg"
+        },
+        {
+            "img": "Radiographs/648.JPG",
+            "seg": "Segmentation/teeth_mask/648.jpg",
+            "msk": "Segmentation/maxillomandibular/648.jpg"
+        },
+        {
+            "img": "Radiographs/1015.JPG",
+            "seg": "Segmentation/teeth_mask/1015.jpg",
+            "msk": "Segmentation/maxillomandibular/1015.jpg"
+        },
+        {
+            "img": "Radiographs/358.JPG",
+            "seg": "Segmentation/teeth_mask/358.jpg",
+            "msk": "Segmentation/maxillomandibular/358.jpg"
+        },
+        {
+            "img": "Radiographs/709.JPG",
+            "seg": "Segmentation/teeth_mask/709.jpg",
+            "msk": "Segmentation/maxillomandibular/709.jpg"
+        },
+        {
+            "img": "Radiographs/417.JPG",
+            "seg": "Segmentation/teeth_mask/417.jpg",
+            "msk": "Segmentation/maxillomandibular/417.jpg"
+        },
+        {
+            "img": "Radiographs/293.JPG",
+            "seg": "Segmentation/teeth_mask/293.jpg",
+            "msk": "Segmentation/maxillomandibular/293.jpg"
+        },
+        {
+            "img": "Radiographs/586.JPG",
+            "seg": "Segmentation/teeth_mask/586.jpg",
+            "msk": "Segmentation/maxillomandibular/586.jpg"
+        },
+        {
+            "img": "Radiographs/421.JPG",
+            "seg": "Segmentation/teeth_mask/421.jpg",
+            "msk": "Segmentation/maxillomandibular/421.jpg"
+        },
+        {
+            "img": "Radiographs/678.JPG",
+            "seg": "Segmentation/teeth_mask/678.jpg",
+            "msk": "Segmentation/maxillomandibular/678.jpg"
+        },
+        {
+            "img": "Radiographs/813.JPG",
+            "seg": "Segmentation/teeth_mask/813.jpg",
+            "msk": "Segmentation/maxillomandibular/813.jpg"
+        },
+        {
+            "img": "Radiographs/220.JPG",
+            "seg": "Segmentation/teeth_mask/220.jpg",
+            "msk": "Segmentation/maxillomandibular/220.jpg"
+        },
+        {
+            "img": "Radiographs/450.JPG",
+            "seg": "Segmentation/teeth_mask/450.jpg",
+            "msk": "Segmentation/maxillomandibular/450.jpg"
+        },
+        {
+            "img": "Radiographs/928.JPG",
+            "seg": "Segmentation/teeth_mask/928.jpg",
+            "msk": "Segmentation/maxillomandibular/928.jpg"
+        },
+        {
+            "img": "Radiographs/366.JPG",
+            "seg": "Segmentation/teeth_mask/366.jpg",
+            "msk": "Segmentation/maxillomandibular/366.jpg"
+        },
+        {
+            "img": "Radiographs/534.JPG",
+            "seg": "Segmentation/teeth_mask/534.jpg",
+            "msk": "Segmentation/maxillomandibular/534.jpg"
+        },
+        {
+            "img": "Radiographs/628.JPG",
+            "seg": "Segmentation/teeth_mask/628.jpg",
+            "msk": "Segmentation/maxillomandibular/628.jpg"
+        },
+        {
+            "img": "Radiographs/477.JPG",
+            "seg": "Segmentation/teeth_mask/477.jpg",
+            "msk": "Segmentation/maxillomandibular/477.jpg"
+        },
+        {
+            "img": "Radiographs/264.JPG",
+            "seg": "Segmentation/teeth_mask/264.jpg",
+            "msk": "Segmentation/maxillomandibular/264.jpg"
+        },
+        {
+            "img": "Radiographs/433.JPG",
+            "seg": "Segmentation/teeth_mask/433.jpg",
+            "msk": "Segmentation/maxillomandibular/433.jpg"
+        },
+        {
+            "img": "Radiographs/177.JPG",
+            "seg": "Segmentation/teeth_mask/177.jpg",
+            "msk": "Segmentation/maxillomandibular/177.jpg"
+        },
+        {
+            "img": "Radiographs/354.JPG",
+            "seg": "Segmentation/teeth_mask/354.jpg",
+            "msk": "Segmentation/maxillomandibular/354.jpg"
+        },
+        {
+            "img": "Radiographs/103.JPG",
+            "seg": "Segmentation/teeth_mask/103.jpg",
+            "msk": "Segmentation/maxillomandibular/103.jpg"
+        },
+        {
+            "img": "Radiographs/716.JPG",
+            "seg": "Segmentation/teeth_mask/716.jpg",
+            "msk": "Segmentation/maxillomandibular/716.jpg"
+        },
+        {
+            "img": "Radiographs/866.JPG",
+            "seg": "Segmentation/teeth_mask/866.jpg",
+            "msk": "Segmentation/maxillomandibular/866.jpg"
+        },
+        {
+            "img": "Radiographs/817.JPG",
+            "seg": "Segmentation/teeth_mask/817.jpg",
+            "msk": "Segmentation/maxillomandibular/817.jpg"
+        },
+        {
+            "img": "Radiographs/100.JPG",
+            "seg": "Segmentation/teeth_mask/100.jpg",
+            "msk": "Segmentation/maxillomandibular/100.jpg"
+        },
+        {
+            "img": "Radiographs/626.JPG",
+            "seg": "Segmentation/teeth_mask/626.jpg",
+            "msk": "Segmentation/maxillomandibular/626.jpg"
+        },
+        {
+            "img": "Radiographs/710.JPG",
+            "seg": "Segmentation/teeth_mask/710.jpg",
+            "msk": "Segmentation/maxillomandibular/710.jpg"
+        },
+        {
+            "img": "Radiographs/257.JPG",
+            "seg": "Segmentation/teeth_mask/257.jpg",
+            "msk": "Segmentation/maxillomandibular/257.jpg"
+        },
+        {
+            "img": "Radiographs/399.JPG",
+            "seg": "Segmentation/teeth_mask/399.jpg",
+            "msk": "Segmentation/maxillomandibular/399.jpg"
+        },
+        {
+            "img": "Radiographs/203.JPG",
+            "seg": "Segmentation/teeth_mask/203.jpg",
+            "msk": "Segmentation/maxillomandibular/203.jpg"
+        },
+        {
+            "img": "Radiographs/1040.JPG",
+            "seg": "Segmentation/teeth_mask/1040.jpg",
+            "msk": "Segmentation/maxillomandibular/1040.jpg"
+        },
+        {
+            "img": "Radiographs/733.JPG",
+            "seg": "Segmentation/teeth_mask/733.jpg",
+            "msk": "Segmentation/maxillomandibular/733.jpg"
+        },
+        {
+            "img": "Radiographs/51.JPG",
+            "seg": "Segmentation/teeth_mask/51.jpg",
+            "msk": "Segmentation/maxillomandibular/51.jpg"
+        },
+        {
+            "img": "Radiographs/848.JPG",
+            "seg": "Segmentation/teeth_mask/848.jpg",
+            "msk": "Segmentation/maxillomandibular/848.jpg"
+        },
+        {
+            "img": "Radiographs/595.JPG",
+            "seg": "Segmentation/teeth_mask/595.jpg",
+            "msk": "Segmentation/maxillomandibular/595.jpg"
+        },
+        {
+            "img": "Radiographs/875.JPG",
+            "seg": "Segmentation/teeth_mask/875.jpg",
+            "msk": "Segmentation/maxillomandibular/875.jpg"
+        },
+        {
+            "img": "Radiographs/726.JPG",
+            "seg": "Segmentation/teeth_mask/726.jpg",
+            "msk": "Segmentation/maxillomandibular/726.jpg"
+        },
+        {
+            "img": "Radiographs/923.JPG",
+            "seg": "Segmentation/teeth_mask/923.jpg",
+            "msk": "Segmentation/maxillomandibular/923.jpg"
+        },
+        {
+            "img": "Radiographs/15.JPG",
+            "seg": "Segmentation/teeth_mask/15.jpg",
+            "msk": "Segmentation/maxillomandibular/15.jpg"
+        },
+        {
+            "img": "Radiographs/271.JPG",
+            "seg": "Segmentation/teeth_mask/271.jpg",
+            "msk": "Segmentation/maxillomandibular/271.jpg"
+        },
+        {
+            "img": "Radiographs/153.JPG",
+            "seg": "Segmentation/teeth_mask/153.jpg",
+            "msk": "Segmentation/maxillomandibular/153.jpg"
+        },
+        {
+            "img": "Radiographs/563.JPG",
+            "seg": "Segmentation/teeth_mask/563.jpg",
+            "msk": "Segmentation/maxillomandibular/563.jpg"
+        },
+        {
+            "img": "Radiographs/278.JPG",
+            "seg": "Segmentation/teeth_mask/278.jpg",
+            "msk": "Segmentation/maxillomandibular/278.jpg"
+        },
+        {
+            "img": "Radiographs/274.JPG",
+            "seg": "Segmentation/teeth_mask/274.jpg",
+            "msk": "Segmentation/maxillomandibular/274.jpg"
+        },
+        {
+            "img": "Radiographs/67.JPG",
+            "seg": "Segmentation/teeth_mask/67.jpg",
+            "msk": "Segmentation/maxillomandibular/67.jpg"
+        },
+        {
+            "img": "Radiographs/884.JPG",
+            "seg": "Segmentation/teeth_mask/884.jpg",
+            "msk": "Segmentation/maxillomandibular/884.jpg"
+        },
+        {
+            "img": "Radiographs/791.JPG",
+            "seg": "Segmentation/teeth_mask/791.jpg",
+            "msk": "Segmentation/maxillomandibular/791.jpg"
+        },
+        {
+            "img": "Radiographs/151.JPG",
+            "seg": "Segmentation/teeth_mask/151.jpg",
+            "msk": "Segmentation/maxillomandibular/151.jpg"
+        },
+        {
+            "img": "Radiographs/803.JPG",
+            "seg": "Segmentation/teeth_mask/803.jpg",
+            "msk": "Segmentation/maxillomandibular/803.jpg"
+        },
+        {
+            "img": "Radiographs/764.JPG",
+            "seg": "Segmentation/teeth_mask/764.jpg",
+            "msk": "Segmentation/maxillomandibular/764.jpg"
+        },
+        {
+            "img": "Radiographs/597.JPG",
+            "seg": "Segmentation/teeth_mask/597.jpg",
+            "msk": "Segmentation/maxillomandibular/597.jpg"
+        },
+        {
+            "img": "Radiographs/937.JPG",
+            "seg": "Segmentation/teeth_mask/937.jpg",
+            "msk": "Segmentation/maxillomandibular/937.jpg"
+        },
+        {
+            "img": "Radiographs/137.JPG",
+            "seg": "Segmentation/teeth_mask/137.jpg",
+            "msk": "Segmentation/maxillomandibular/137.jpg"
+        },
+        {
+            "img": "Radiographs/76.JPG",
+            "seg": "Segmentation/teeth_mask/76.jpg",
+            "msk": "Segmentation/maxillomandibular/76.jpg"
+        },
+        {
+            "img": "Radiographs/640.JPG",
+            "seg": "Segmentation/teeth_mask/640.jpg",
+            "msk": "Segmentation/maxillomandibular/640.jpg"
+        },
+        {
+            "img": "Radiographs/562.JPG",
+            "seg": "Segmentation/teeth_mask/562.jpg",
+            "msk": "Segmentation/maxillomandibular/562.jpg"
+        },
+        {
+            "img": "Radiographs/35.JPG",
+            "seg": "Segmentation/teeth_mask/35.jpg",
+            "msk": "Segmentation/maxillomandibular/35.jpg"
+        },
+        {
+            "img": "Radiographs/929.JPG",
+            "seg": "Segmentation/teeth_mask/929.jpg",
+            "msk": "Segmentation/maxillomandibular/929.jpg"
+        },
+        {
+            "img": "Radiographs/454.JPG",
+            "seg": "Segmentation/teeth_mask/454.jpg",
+            "msk": "Segmentation/maxillomandibular/454.jpg"
+        },
+        {
+            "img": "Radiographs/226.JPG",
+            "seg": "Segmentation/teeth_mask/226.jpg",
+            "msk": "Segmentation/maxillomandibular/226.jpg"
+        },
+        {
+            "img": "Radiographs/502.JPG",
+            "seg": "Segmentation/teeth_mask/502.jpg",
+            "msk": "Segmentation/maxillomandibular/502.jpg"
+        },
+        {
+            "img": "Radiographs/542.JPG",
+            "seg": "Segmentation/teeth_mask/542.jpg",
+            "msk": "Segmentation/maxillomandibular/542.jpg"
+        },
+        {
+            "img": "Radiographs/181.JPG",
+            "seg": "Segmentation/teeth_mask/181.jpg",
+            "msk": "Segmentation/maxillomandibular/181.jpg"
+        },
+        {
+            "img": "Radiographs/527.JPG",
+            "seg": "Segmentation/teeth_mask/527.jpg",
+            "msk": "Segmentation/maxillomandibular/527.jpg"
+        },
+        {
+            "img": "Radiographs/939.JPG",
+            "seg": "Segmentation/teeth_mask/939.jpg",
+            "msk": "Segmentation/maxillomandibular/939.jpg"
+        },
+        {
+            "img": "Radiographs/222.JPG",
+            "seg": "Segmentation/teeth_mask/222.jpg",
+            "msk": "Segmentation/maxillomandibular/222.jpg"
+        },
+        {
+            "img": "Radiographs/683.JPG",
+            "seg": "Segmentation/teeth_mask/683.jpg",
+            "msk": "Segmentation/maxillomandibular/683.jpg"
+        },
+        {
+            "img": "Radiographs/721.JPG",
+            "seg": "Segmentation/teeth_mask/721.jpg",
+            "msk": "Segmentation/maxillomandibular/721.jpg"
+        },
+        {
+            "img": "Radiographs/38.JPG",
+            "seg": "Segmentation/teeth_mask/38.jpg",
+            "msk": "Segmentation/maxillomandibular/38.jpg"
+        },
+        {
+            "img": "Radiographs/311.JPG",
+            "seg": "Segmentation/teeth_mask/311.jpg",
+            "msk": "Segmentation/maxillomandibular/311.jpg"
+        },
+        {
+            "img": "Radiographs/29.JPG",
+            "seg": "Segmentation/teeth_mask/29.jpg",
+            "msk": "Segmentation/maxillomandibular/29.jpg"
+        },
+        {
+            "img": "Radiographs/810.JPG",
+            "seg": "Segmentation/teeth_mask/810.jpg",
+            "msk": "Segmentation/maxillomandibular/810.jpg"
+        },
+        {
+            "img": "Radiographs/855.JPG",
+            "seg": "Segmentation/teeth_mask/855.jpg",
+            "msk": "Segmentation/maxillomandibular/855.jpg"
+        },
+        {
+            "img": "Radiographs/660.JPG",
+            "seg": "Segmentation/teeth_mask/660.jpg",
+            "msk": "Segmentation/maxillomandibular/660.jpg"
+        },
+        {
+            "img": "Radiographs/287.JPG",
+            "seg": "Segmentation/teeth_mask/287.jpg",
+            "msk": "Segmentation/maxillomandibular/287.jpg"
+        },
+        {
+            "img": "Radiographs/218.JPG",
+            "seg": "Segmentation/teeth_mask/218.jpg",
+            "msk": "Segmentation/maxillomandibular/218.jpg"
+        },
+        {
+            "img": "Radiographs/784.JPG",
+            "seg": "Segmentation/teeth_mask/784.jpg",
+            "msk": "Segmentation/maxillomandibular/784.jpg"
+        },
+        {
+            "img": "Radiographs/807.JPG",
+            "seg": "Segmentation/teeth_mask/807.jpg",
+            "msk": "Segmentation/maxillomandibular/807.jpg"
+        },
+        {
+            "img": "Radiographs/630.JPG",
+            "seg": "Segmentation/teeth_mask/630.jpg",
+            "msk": "Segmentation/maxillomandibular/630.jpg"
+        },
+        {
+            "img": "Radiographs/613.JPG",
+            "seg": "Segmentation/teeth_mask/613.jpg",
+            "msk": "Segmentation/maxillomandibular/613.jpg"
+        },
+        {
+            "img": "Radiographs/739.JPG",
+            "seg": "Segmentation/teeth_mask/739.jpg",
+            "msk": "Segmentation/maxillomandibular/739.jpg"
+        },
+        {
+            "img": "Radiographs/128.JPG",
+            "seg": "Segmentation/teeth_mask/128.jpg",
+            "msk": "Segmentation/maxillomandibular/128.jpg"
+        },
+        {
+            "img": "Radiographs/144.JPG",
+            "seg": "Segmentation/teeth_mask/144.jpg",
+            "msk": "Segmentation/maxillomandibular/144.jpg"
+        },
+        {
+            "img": "Radiographs/629.JPG",
+            "seg": "Segmentation/teeth_mask/629.jpg",
+            "msk": "Segmentation/maxillomandibular/629.jpg"
+        },
+        {
+            "img": "Radiographs/522.JPG",
+            "seg": "Segmentation/teeth_mask/522.jpg",
+            "msk": "Segmentation/maxillomandibular/522.jpg"
+        },
+        {
+            "img": "Radiographs/1036.JPG",
+            "seg": "Segmentation/teeth_mask/1036.jpg",
+            "msk": "Segmentation/maxillomandibular/1036.jpg"
+        },
+        {
+            "img": "Radiographs/674.JPG",
+            "seg": "Segmentation/teeth_mask/674.jpg",
+            "msk": "Segmentation/maxillomandibular/674.jpg"
+        },
+        {
+            "img": "Radiographs/642.JPG",
+            "seg": "Segmentation/teeth_mask/642.jpg",
+            "msk": "Segmentation/maxillomandibular/642.jpg"
+        },
+        {
+            "img": "Radiographs/921.JPG",
+            "seg": "Segmentation/teeth_mask/921.jpg",
+            "msk": "Segmentation/maxillomandibular/921.jpg"
+        },
+        {
+            "img": "Radiographs/43.JPG",
+            "seg": "Segmentation/teeth_mask/43.jpg",
+            "msk": "Segmentation/maxillomandibular/43.jpg"
+        },
+        {
+            "img": "Radiographs/307.JPG",
+            "seg": "Segmentation/teeth_mask/307.jpg",
+            "msk": "Segmentation/maxillomandibular/307.jpg"
+        },
+        {
+            "img": "Radiographs/373.JPG",
+            "seg": "Segmentation/teeth_mask/373.jpg",
+            "msk": "Segmentation/maxillomandibular/373.jpg"
+        },
+        {
+            "img": "Radiographs/720.JPG",
+            "seg": "Segmentation/teeth_mask/720.jpg",
+            "msk": "Segmentation/maxillomandibular/720.jpg"
+        },
+        {
+            "img": "Radiographs/445.JPG",
+            "seg": "Segmentation/teeth_mask/445.jpg",
+            "msk": "Segmentation/maxillomandibular/445.jpg"
+        },
+        {
+            "img": "Radiographs/345.JPG",
+            "seg": "Segmentation/teeth_mask/345.jpg",
+            "msk": "Segmentation/maxillomandibular/345.jpg"
+        },
+        {
+            "img": "Radiographs/362.JPG",
+            "seg": "Segmentation/teeth_mask/362.jpg",
+            "msk": "Segmentation/maxillomandibular/362.jpg"
+        },
+        {
+            "img": "Radiographs/634.JPG",
+            "seg": "Segmentation/teeth_mask/634.jpg",
+            "msk": "Segmentation/maxillomandibular/634.jpg"
+        },
+        {
+            "img": "Radiographs/180.JPG",
+            "seg": "Segmentation/teeth_mask/180.jpg",
+            "msk": "Segmentation/maxillomandibular/180.jpg"
+        },
+        {
+            "img": "Radiographs/94.JPG",
+            "seg": "Segmentation/teeth_mask/94.jpg",
+            "msk": "Segmentation/maxillomandibular/94.jpg"
+        },
+        {
+            "img": "Radiographs/430.JPG",
+            "seg": "Segmentation/teeth_mask/430.jpg",
+            "msk": "Segmentation/maxillomandibular/430.jpg"
+        },
+        {
+            "img": "Radiographs/815.JPG",
+            "seg": "Segmentation/teeth_mask/815.jpg",
+            "msk": "Segmentation/maxillomandibular/815.jpg"
+        },
+        {
+            "img": "Radiographs/649.JPG",
+            "seg": "Segmentation/teeth_mask/649.jpg",
+            "msk": "Segmentation/maxillomandibular/649.jpg"
+        },
+        {
+            "img": "Radiographs/837.JPG",
+            "seg": "Segmentation/teeth_mask/837.jpg",
+            "msk": "Segmentation/maxillomandibular/837.jpg"
+        },
+        {
+            "img": "Radiographs/946.JPG",
+            "seg": "Segmentation/teeth_mask/946.jpg",
+            "msk": "Segmentation/maxillomandibular/946.jpg"
+        },
+        {
+            "img": "Radiographs/439.JPG",
+            "seg": "Segmentation/teeth_mask/439.jpg",
+            "msk": "Segmentation/maxillomandibular/439.jpg"
+        },
+        {
+            "img": "Radiographs/491.JPG",
+            "seg": "Segmentation/teeth_mask/491.jpg",
+            "msk": "Segmentation/maxillomandibular/491.jpg"
+        },
+        {
+            "img": "Radiographs/728.JPG",
+            "seg": "Segmentation/teeth_mask/728.jpg",
+            "msk": "Segmentation/maxillomandibular/728.jpg"
+        },
+        {
+            "img": "Radiographs/171.JPG",
+            "seg": "Segmentation/teeth_mask/171.jpg",
+            "msk": "Segmentation/maxillomandibular/171.jpg"
+        },
+        {
+            "img": "Radiographs/677.JPG",
+            "seg": "Segmentation/teeth_mask/677.jpg",
+            "msk": "Segmentation/maxillomandibular/677.jpg"
+        },
+        {
+            "img": "Radiographs/344.JPG",
+            "seg": "Segmentation/teeth_mask/344.jpg",
+            "msk": "Segmentation/maxillomandibular/344.jpg"
+        },
+        {
+            "img": "Radiographs/845.JPG",
+            "seg": "Segmentation/teeth_mask/845.jpg",
+            "msk": "Segmentation/maxillomandibular/845.jpg"
+        },
+        {
+            "img": "Radiographs/887.JPG",
+            "seg": "Segmentation/teeth_mask/887.jpg",
+            "msk": "Segmentation/maxillomandibular/887.jpg"
+        },
+        {
+            "img": "Radiographs/727.JPG",
+            "seg": "Segmentation/teeth_mask/727.jpg",
+            "msk": "Segmentation/maxillomandibular/727.jpg"
+        },
+        {
+            "img": "Radiographs/259.JPG",
+            "seg": "Segmentation/teeth_mask/259.jpg",
+            "msk": "Segmentation/maxillomandibular/259.jpg"
+        },
+        {
+            "img": "Radiographs/176.JPG",
+            "seg": "Segmentation/teeth_mask/176.jpg",
+            "msk": "Segmentation/maxillomandibular/176.jpg"
+        },
+        {
+            "img": "Radiographs/759.JPG",
+            "seg": "Segmentation/teeth_mask/759.jpg",
+            "msk": "Segmentation/maxillomandibular/759.jpg"
+        },
+        {
+            "img": "Radiographs/934.JPG",
+            "seg": "Segmentation/teeth_mask/934.jpg",
+            "msk": "Segmentation/maxillomandibular/934.jpg"
+        },
+        {
+            "img": "Radiographs/785.JPG",
+            "seg": "Segmentation/teeth_mask/785.jpg",
+            "msk": "Segmentation/maxillomandibular/785.jpg"
+        },
+        {
+            "img": "Radiographs/270.JPG",
+            "seg": "Segmentation/teeth_mask/270.jpg",
+            "msk": "Segmentation/maxillomandibular/270.jpg"
+        },
+        {
+            "img": "Radiographs/60.JPG",
+            "seg": "Segmentation/teeth_mask/60.jpg",
+            "msk": "Segmentation/maxillomandibular/60.jpg"
+        },
+        {
+            "img": "Radiographs/80.JPG",
+            "seg": "Segmentation/teeth_mask/80.jpg",
+            "msk": "Segmentation/maxillomandibular/80.jpg"
+        },
+        {
+            "img": "Radiographs/260.JPG",
+            "seg": "Segmentation/teeth_mask/260.jpg",
+            "msk": "Segmentation/maxillomandibular/260.jpg"
+        },
+        {
+            "img": "Radiographs/36.JPG",
+            "seg": "Segmentation/teeth_mask/36.jpg",
+            "msk": "Segmentation/maxillomandibular/36.jpg"
+        },
+        {
+            "img": "Radiographs/580.JPG",
+            "seg": "Segmentation/teeth_mask/580.jpg",
+            "msk": "Segmentation/maxillomandibular/580.jpg"
+        },
+        {
+            "img": "Radiographs/489.JPG",
+            "seg": "Segmentation/teeth_mask/489.jpg",
+            "msk": "Segmentation/maxillomandibular/489.jpg"
+        },
+        {
+            "img": "Radiographs/337.JPG",
+            "seg": "Segmentation/teeth_mask/337.jpg",
+            "msk": "Segmentation/maxillomandibular/337.jpg"
+        },
+        {
+            "img": "Radiographs/281.JPG",
+            "seg": "Segmentation/teeth_mask/281.jpg",
+            "msk": "Segmentation/maxillomandibular/281.jpg"
+        },
+        {
+            "img": "Radiographs/898.JPG",
+            "seg": "Segmentation/teeth_mask/898.jpg",
+            "msk": "Segmentation/maxillomandibular/898.jpg"
+        },
+        {
+            "img": "Radiographs/295.JPG",
+            "seg": "Segmentation/teeth_mask/295.jpg",
+            "msk": "Segmentation/maxillomandibular/295.jpg"
+        },
+        {
+            "img": "Radiographs/722.JPG",
+            "seg": "Segmentation/teeth_mask/722.jpg",
+            "msk": "Segmentation/maxillomandibular/722.jpg"
+        },
+        {
+            "img": "Radiographs/546.JPG",
+            "seg": "Segmentation/teeth_mask/546.jpg",
+            "msk": "Segmentation/maxillomandibular/546.jpg"
+        },
+        {
+            "img": "Radiographs/480.JPG",
+            "seg": "Segmentation/teeth_mask/480.jpg",
+            "msk": "Segmentation/maxillomandibular/480.jpg"
+        },
+        {
+            "img": "Radiographs/302.JPG",
+            "seg": "Segmentation/teeth_mask/302.jpg",
+            "msk": "Segmentation/maxillomandibular/302.jpg"
+        },
+        {
+            "img": "Radiographs/332.JPG",
+            "seg": "Segmentation/teeth_mask/332.jpg",
+            "msk": "Segmentation/maxillomandibular/332.jpg"
+        },
+        {
+            "img": "Radiographs/273.JPG",
+            "seg": "Segmentation/teeth_mask/273.jpg",
+            "msk": "Segmentation/maxillomandibular/273.jpg"
+        },
+        {
+            "img": "Radiographs/701.JPG",
+            "seg": "Segmentation/teeth_mask/701.jpg",
+            "msk": "Segmentation/maxillomandibular/701.jpg"
+        },
+        {
+            "img": "Radiographs/446.JPG",
+            "seg": "Segmentation/teeth_mask/446.jpg",
+            "msk": "Segmentation/maxillomandibular/446.jpg"
+        },
+        {
+            "img": "Radiographs/935.JPG",
+            "seg": "Segmentation/teeth_mask/935.jpg",
+            "msk": "Segmentation/maxillomandibular/935.jpg"
+        },
+        {
+            "img": "Radiographs/474.JPG",
+            "seg": "Segmentation/teeth_mask/474.jpg",
+            "msk": "Segmentation/maxillomandibular/474.jpg"
+        },
+        {
+            "img": "Radiographs/702.JPG",
+            "seg": "Segmentation/teeth_mask/702.jpg",
+            "msk": "Segmentation/maxillomandibular/702.jpg"
+        },
+        {
+            "img": "Radiographs/745.JPG",
+            "seg": "Segmentation/teeth_mask/745.jpg",
+            "msk": "Segmentation/maxillomandibular/745.jpg"
+        },
+        {
+            "img": "Radiographs/540.JPG",
+            "seg": "Segmentation/teeth_mask/540.jpg",
+            "msk": "Segmentation/maxillomandibular/540.jpg"
+        },
+        {
+            "img": "Radiographs/897.JPG",
+            "seg": "Segmentation/teeth_mask/897.jpg",
+            "msk": "Segmentation/maxillomandibular/897.jpg"
+        },
+        {
+            "img": "Radiographs/122.JPG",
+            "seg": "Segmentation/teeth_mask/122.jpg",
+            "msk": "Segmentation/maxillomandibular/122.jpg"
+        },
+        {
+            "img": "Radiographs/856.JPG",
+            "seg": "Segmentation/teeth_mask/856.jpg",
+            "msk": "Segmentation/maxillomandibular/856.jpg"
+        },
+        {
+            "img": "Radiographs/787.JPG",
+            "seg": "Segmentation/teeth_mask/787.jpg",
+            "msk": "Segmentation/maxillomandibular/787.jpg"
+        },
+        {
+            "img": "Radiographs/441.JPG",
+            "seg": "Segmentation/teeth_mask/441.jpg",
+            "msk": "Segmentation/maxillomandibular/441.jpg"
+        },
+        {
+            "img": "Radiographs/323.JPG",
+            "seg": "Segmentation/teeth_mask/323.jpg",
+            "msk": "Segmentation/maxillomandibular/323.jpg"
+        },
+        {
+            "img": "Radiographs/118.JPG",
+            "seg": "Segmentation/teeth_mask/118.jpg",
+            "msk": "Segmentation/maxillomandibular/118.jpg"
+        },
+        {
+            "img": "Radiographs/823.JPG",
+            "seg": "Segmentation/teeth_mask/823.jpg",
+            "msk": "Segmentation/maxillomandibular/823.jpg"
+        },
+        {
+            "img": "Radiographs/234.JPG",
+            "seg": "Segmentation/teeth_mask/234.jpg",
+            "msk": "Segmentation/maxillomandibular/234.jpg"
+        },
+        {
+            "img": "Radiographs/616.JPG",
+            "seg": "Segmentation/teeth_mask/616.jpg",
+            "msk": "Segmentation/maxillomandibular/616.jpg"
+        },
+        {
+            "img": "Radiographs/708.JPG",
+            "seg": "Segmentation/teeth_mask/708.jpg",
+            "msk": "Segmentation/maxillomandibular/708.jpg"
+        },
+        {
+            "img": "Radiographs/2.JPG",
+            "seg": "Segmentation/teeth_mask/2.jpg",
+            "msk": "Segmentation/maxillomandibular/2.jpg"
+        },
+        {
+            "img": "Radiographs/340.JPG",
+            "seg": "Segmentation/teeth_mask/340.jpg",
+            "msk": "Segmentation/maxillomandibular/340.jpg"
+        },
+        {
+            "img": "Radiographs/598.JPG",
+            "seg": "Segmentation/teeth_mask/598.jpg",
+            "msk": "Segmentation/maxillomandibular/598.jpg"
+        },
+        {
+            "img": "Radiographs/773.JPG",
+            "seg": "Segmentation/teeth_mask/773.jpg",
+            "msk": "Segmentation/maxillomandibular/773.jpg"
+        },
+        {
+            "img": "Radiographs/936.JPG",
+            "seg": "Segmentation/teeth_mask/936.jpg",
+            "msk": "Segmentation/maxillomandibular/936.jpg"
+        },
+        {
+            "img": "Radiographs/800.JPG",
+            "seg": "Segmentation/teeth_mask/800.jpg",
+            "msk": "Segmentation/maxillomandibular/800.jpg"
+        },
+        {
+            "img": "Radiographs/135.JPG",
+            "seg": "Segmentation/teeth_mask/135.jpg",
+            "msk": "Segmentation/maxillomandibular/135.jpg"
+        },
+        {
+            "img": "Radiographs/609.JPG",
+            "seg": "Segmentation/teeth_mask/609.jpg",
+            "msk": "Segmentation/maxillomandibular/609.jpg"
+        },
+        {
+            "img": "Radiographs/941.JPG",
+            "seg": "Segmentation/teeth_mask/941.jpg",
+            "msk": "Segmentation/maxillomandibular/941.jpg"
+        },
+        {
+            "img": "Radiographs/761.JPG",
+            "seg": "Segmentation/teeth_mask/761.jpg",
+            "msk": "Segmentation/maxillomandibular/761.jpg"
+        },
+        {
+            "img": "Radiographs/383.JPG",
+            "seg": "Segmentation/teeth_mask/383.jpg",
+            "msk": "Segmentation/maxillomandibular/383.jpg"
+        },
+        {
+            "img": "Radiographs/338.JPG",
+            "seg": "Segmentation/teeth_mask/338.jpg",
+            "msk": "Segmentation/maxillomandibular/338.jpg"
+        },
+        {
+            "img": "Radiographs/207.JPG",
+            "seg": "Segmentation/teeth_mask/207.jpg",
+            "msk": "Segmentation/maxillomandibular/207.jpg"
+        },
+        {
+            "img": "Radiographs/614.JPG",
+            "seg": "Segmentation/teeth_mask/614.jpg",
+            "msk": "Segmentation/maxillomandibular/614.jpg"
+        },
+        {
+            "img": "Radiographs/776.JPG",
+            "seg": "Segmentation/teeth_mask/776.jpg",
+            "msk": "Segmentation/maxillomandibular/776.jpg"
+        },
+        {
+            "img": "Radiographs/435.JPG",
+            "seg": "Segmentation/teeth_mask/435.jpg",
+            "msk": "Segmentation/maxillomandibular/435.jpg"
+        },
+        {
+            "img": "Radiographs/551.JPG",
+            "seg": "Segmentation/teeth_mask/551.jpg",
+            "msk": "Segmentation/maxillomandibular/551.jpg"
+        },
+        {
+            "img": "Radiographs/141.JPG",
+            "seg": "Segmentation/teeth_mask/141.jpg",
+            "msk": "Segmentation/maxillomandibular/141.jpg"
+        },
+        {
+            "img": "Radiographs/119.JPG",
+            "seg": "Segmentation/teeth_mask/119.jpg",
+            "msk": "Segmentation/maxillomandibular/119.jpg"
+        },
+        {
+            "img": "Radiographs/304.JPG",
+            "seg": "Segmentation/teeth_mask/304.jpg",
+            "msk": "Segmentation/maxillomandibular/304.jpg"
+        },
+        {
+            "img": "Radiographs/164.JPG",
+            "seg": "Segmentation/teeth_mask/164.jpg",
+            "msk": "Segmentation/maxillomandibular/164.jpg"
+        },
+        {
+            "img": "Radiographs/272.JPG",
+            "seg": "Segmentation/teeth_mask/272.jpg",
+            "msk": "Segmentation/maxillomandibular/272.jpg"
+        },
+        {
+            "img": "Radiographs/1004.JPG",
+            "seg": "Segmentation/teeth_mask/1004.jpg",
+            "msk": "Segmentation/maxillomandibular/1004.jpg"
+        },
+        {
+            "img": "Radiographs/131.JPG",
+            "seg": "Segmentation/teeth_mask/131.jpg",
+            "msk": "Segmentation/maxillomandibular/131.jpg"
+        },
+        {
+            "img": "Radiographs/949.JPG",
+            "seg": "Segmentation/teeth_mask/949.jpg",
+            "msk": "Segmentation/maxillomandibular/949.jpg"
+        },
+        {
+            "img": "Radiographs/351.JPG",
+            "seg": "Segmentation/teeth_mask/351.jpg",
+            "msk": "Segmentation/maxillomandibular/351.jpg"
+        },
+        {
+            "img": "Radiographs/1038.JPG",
+            "seg": "Segmentation/teeth_mask/1038.jpg",
+            "msk": "Segmentation/maxillomandibular/1038.jpg"
+        },
+        {
+            "img": "Radiographs/427.JPG",
+            "seg": "Segmentation/teeth_mask/427.jpg",
+            "msk": "Segmentation/maxillomandibular/427.jpg"
+        },
+        {
+            "img": "Radiographs/163.JPG",
+            "seg": "Segmentation/teeth_mask/163.jpg",
+            "msk": "Segmentation/maxillomandibular/163.jpg"
+        },
+        {
+            "img": "Radiographs/377.JPG",
+            "seg": "Segmentation/teeth_mask/377.jpg",
+            "msk": "Segmentation/maxillomandibular/377.jpg"
+        },
+        {
+            "img": "Radiographs/409.JPG",
+            "seg": "Segmentation/teeth_mask/409.jpg",
+            "msk": "Segmentation/maxillomandibular/409.jpg"
+        },
+        {
+            "img": "Radiographs/913.JPG",
+            "seg": "Segmentation/teeth_mask/913.jpg",
+            "msk": "Segmentation/maxillomandibular/913.jpg"
+        },
+        {
+            "img": "Radiographs/850.JPG",
+            "seg": "Segmentation/teeth_mask/850.jpg",
+            "msk": "Segmentation/maxillomandibular/850.jpg"
+        },
+        {
+            "img": "Radiographs/65.JPG",
+            "seg": "Segmentation/teeth_mask/65.jpg",
+            "msk": "Segmentation/maxillomandibular/65.jpg"
+        },
+        {
+            "img": "Radiographs/197.JPG",
+            "seg": "Segmentation/teeth_mask/197.jpg",
+            "msk": "Segmentation/maxillomandibular/197.jpg"
+        },
+        {
+            "img": "Radiographs/662.JPG",
+            "seg": "Segmentation/teeth_mask/662.jpg",
+            "msk": "Segmentation/maxillomandibular/662.jpg"
+        },
+        {
+            "img": "Radiographs/179.JPG",
+            "seg": "Segmentation/teeth_mask/179.jpg",
+            "msk": "Segmentation/maxillomandibular/179.jpg"
+        },
+        {
+            "img": "Radiographs/777.JPG",
+            "seg": "Segmentation/teeth_mask/777.jpg",
+            "msk": "Segmentation/maxillomandibular/777.jpg"
+        },
+        {
+            "img": "Radiographs/425.JPG",
+            "seg": "Segmentation/teeth_mask/425.jpg",
+            "msk": "Segmentation/maxillomandibular/425.jpg"
+        },
+        {
+            "img": "Radiographs/6.JPG",
+            "seg": "Segmentation/teeth_mask/6.jpg",
+            "msk": "Segmentation/maxillomandibular/6.jpg"
+        },
+        {
+            "img": "Radiographs/104.JPG",
+            "seg": "Segmentation/teeth_mask/104.jpg",
+            "msk": "Segmentation/maxillomandibular/104.jpg"
+        },
+        {
+            "img": "Radiographs/862.JPG",
+            "seg": "Segmentation/teeth_mask/862.jpg",
+            "msk": "Segmentation/maxillomandibular/862.jpg"
+        },
+        {
+            "img": "Radiographs/867.JPG",
+            "seg": "Segmentation/teeth_mask/867.jpg",
+            "msk": "Segmentation/maxillomandibular/867.jpg"
+        },
+        {
+            "img": "Radiographs/392.JPG",
+            "seg": "Segmentation/teeth_mask/392.jpg",
+            "msk": "Segmentation/maxillomandibular/392.jpg"
+        },
+        {
+            "img": "Radiographs/718.JPG",
+            "seg": "Segmentation/teeth_mask/718.jpg",
+            "msk": "Segmentation/maxillomandibular/718.jpg"
+        },
+        {
+            "img": "Radiographs/331.JPG",
+            "seg": "Segmentation/teeth_mask/331.jpg",
+            "msk": "Segmentation/maxillomandibular/331.jpg"
+        },
+        {
+            "img": "Radiographs/472.JPG",
+            "seg": "Segmentation/teeth_mask/472.jpg",
+            "msk": "Segmentation/maxillomandibular/472.jpg"
+        },
+        {
+            "img": "Radiographs/951.JPG",
+            "seg": "Segmentation/teeth_mask/951.jpg",
+            "msk": "Segmentation/maxillomandibular/951.jpg"
+        },
+        {
+            "img": "Radiographs/1032.JPG",
+            "seg": "Segmentation/teeth_mask/1032.jpg",
+            "msk": "Segmentation/maxillomandibular/1032.jpg"
+        },
+        {
+            "img": "Radiographs/1025.JPG",
+            "seg": "Segmentation/teeth_mask/1025.jpg",
+            "msk": "Segmentation/maxillomandibular/1025.jpg"
+        },
+        {
+            "img": "Radiographs/277.JPG",
+            "seg": "Segmentation/teeth_mask/277.jpg",
+            "msk": "Segmentation/maxillomandibular/277.jpg"
+        },
+        {
+            "img": "Radiographs/1047.JPG",
+            "seg": "Segmentation/teeth_mask/1047.jpg",
+            "msk": "Segmentation/maxillomandibular/1047.jpg"
+        },
+        {
+            "img": "Radiographs/306.JPG",
+            "seg": "Segmentation/teeth_mask/306.jpg",
+            "msk": "Segmentation/maxillomandibular/306.jpg"
+        },
+        {
+            "img": "Radiographs/217.JPG",
+            "seg": "Segmentation/teeth_mask/217.jpg",
+            "msk": "Segmentation/maxillomandibular/217.jpg"
+        },
+        {
+            "img": "Radiographs/738.JPG",
+            "seg": "Segmentation/teeth_mask/738.jpg",
+            "msk": "Segmentation/maxillomandibular/738.jpg"
+        },
+        {
+            "img": "Radiographs/14.JPG",
+            "seg": "Segmentation/teeth_mask/14.jpg",
+            "msk": "Segmentation/maxillomandibular/14.jpg"
+        },
+        {
+            "img": "Radiographs/667.JPG",
+            "seg": "Segmentation/teeth_mask/667.jpg",
+            "msk": "Segmentation/maxillomandibular/667.jpg"
+        },
+        {
+            "img": "Radiographs/136.JPG",
+            "seg": "Segmentation/teeth_mask/136.jpg",
+            "msk": "Segmentation/maxillomandibular/136.jpg"
+        },
+        {
+            "img": "Radiographs/31.JPG",
+            "seg": "Segmentation/teeth_mask/31.jpg",
+            "msk": "Segmentation/maxillomandibular/31.jpg"
+        },
+        {
+            "img": "Radiographs/729.JPG",
+            "seg": "Segmentation/teeth_mask/729.jpg",
+            "msk": "Segmentation/maxillomandibular/729.jpg"
+        },
+        {
+            "img": "Radiographs/889.JPG",
+            "seg": "Segmentation/teeth_mask/889.jpg",
+            "msk": "Segmentation/maxillomandibular/889.jpg"
+        },
+        {
+            "img": "Radiographs/255.JPG",
+            "seg": "Segmentation/teeth_mask/255.jpg",
+            "msk": "Segmentation/maxillomandibular/255.jpg"
+        },
+        {
+            "img": "Radiographs/412.JPG",
+            "seg": "Segmentation/teeth_mask/412.jpg",
+            "msk": "Segmentation/maxillomandibular/412.jpg"
+        },
+        {
+            "img": "Radiographs/772.JPG",
+            "seg": "Segmentation/teeth_mask/772.jpg",
+            "msk": "Segmentation/maxillomandibular/772.jpg"
+        },
+        {
+            "img": "Radiographs/149.JPG",
+            "seg": "Segmentation/teeth_mask/149.jpg",
+            "msk": "Segmentation/maxillomandibular/149.jpg"
+        },
+        {
+            "img": "Radiographs/161.JPG",
+            "seg": "Segmentation/teeth_mask/161.jpg",
+            "msk": "Segmentation/maxillomandibular/161.jpg"
+        },
+        {
+            "img": "Radiographs/673.JPG",
+            "seg": "Segmentation/teeth_mask/673.jpg",
+            "msk": "Segmentation/maxillomandibular/673.jpg"
+        },
+        {
+            "img": "Radiographs/357.JPG",
+            "seg": "Segmentation/teeth_mask/357.jpg",
+            "msk": "Segmentation/maxillomandibular/357.jpg"
+        },
+        {
+            "img": "Radiographs/407.JPG",
+            "seg": "Segmentation/teeth_mask/407.jpg",
+            "msk": "Segmentation/maxillomandibular/407.jpg"
+        },
+        {
+            "img": "Radiographs/173.JPG",
+            "seg": "Segmentation/teeth_mask/173.jpg",
+            "msk": "Segmentation/maxillomandibular/173.jpg"
+        },
+        {
+            "img": "Radiographs/781.JPG",
+            "seg": "Segmentation/teeth_mask/781.jpg",
+            "msk": "Segmentation/maxillomandibular/781.jpg"
+        },
+        {
+            "img": "Radiographs/567.JPG",
+            "seg": "Segmentation/teeth_mask/567.jpg",
+            "msk": "Segmentation/maxillomandibular/567.jpg"
+        },
+        {
+            "img": "Radiographs/571.JPG",
+            "seg": "Segmentation/teeth_mask/571.jpg",
+            "msk": "Segmentation/maxillomandibular/571.jpg"
+        },
+        {
+            "img": "Radiographs/396.JPG",
+            "seg": "Segmentation/teeth_mask/396.jpg",
+            "msk": "Segmentation/maxillomandibular/396.jpg"
+        },
+        {
+            "img": "Radiographs/420.JPG",
+            "seg": "Segmentation/teeth_mask/420.jpg",
+            "msk": "Segmentation/maxillomandibular/420.jpg"
+        },
+        {
+            "img": "Radiographs/46.JPG",
+            "seg": "Segmentation/teeth_mask/46.jpg",
+            "msk": "Segmentation/maxillomandibular/46.jpg"
+        },
+        {
+            "img": "Radiographs/455.JPG",
+            "seg": "Segmentation/teeth_mask/455.jpg",
+            "msk": "Segmentation/maxillomandibular/455.jpg"
+        },
+        {
+            "img": "Radiographs/184.JPG",
+            "seg": "Segmentation/teeth_mask/184.jpg",
+            "msk": "Segmentation/maxillomandibular/184.jpg"
+        },
+        {
+            "img": "Radiographs/33.JPG",
+            "seg": "Segmentation/teeth_mask/33.jpg",
+            "msk": "Segmentation/maxillomandibular/33.jpg"
+        },
+        {
+            "img": "Radiographs/514.JPG",
+            "seg": "Segmentation/teeth_mask/514.jpg",
+            "msk": "Segmentation/maxillomandibular/514.jpg"
+        },
+        {
+            "img": "Radiographs/511.JPG",
+            "seg": "Segmentation/teeth_mask/511.jpg",
+            "msk": "Segmentation/maxillomandibular/511.jpg"
+        }
+    ],
+    "valid": [
+        {
+            "img": "Radiographs/244.JPG",
+            "seg": "Segmentation/teeth_mask/244.jpg",
+            "msk": "Segmentation/maxillomandibular/244.jpg"
+        },
+        {
+            "img": "Radiographs/361.JPG",
+            "seg": "Segmentation/teeth_mask/361.jpg",
+            "msk": "Segmentation/maxillomandibular/361.jpg"
+        },
+        {
+            "img": "Radiographs/289.JPG",
+            "seg": "Segmentation/teeth_mask/289.jpg",
+            "msk": "Segmentation/maxillomandibular/289.jpg"
+        },
+        {
+            "img": "Radiographs/369.JPG",
+            "seg": "Segmentation/teeth_mask/369.jpg",
+            "msk": "Segmentation/maxillomandibular/369.jpg"
+        },
+        {
+            "img": "Radiographs/849.JPG",
+            "seg": "Segmentation/teeth_mask/849.jpg",
+            "msk": "Segmentation/maxillomandibular/849.jpg"
+        },
+        {
+            "img": "Radiographs/714.JPG",
+            "seg": "Segmentation/teeth_mask/714.jpg",
+            "msk": "Segmentation/maxillomandibular/714.jpg"
+        },
+        {
+            "img": "Radiographs/981.JPG",
+            "seg": "Segmentation/teeth_mask/981.jpg",
+            "msk": "Segmentation/maxillomandibular/981.jpg"
+        },
+        {
+            "img": "Radiographs/550.JPG",
+            "seg": "Segmentation/teeth_mask/550.jpg",
+            "msk": "Segmentation/maxillomandibular/550.jpg"
+        },
+        {
+            "img": "Radiographs/145.JPG",
+            "seg": "Segmentation/teeth_mask/145.jpg",
+            "msk": "Segmentation/maxillomandibular/145.jpg"
+        },
+        {
+            "img": "Radiographs/336.JPG",
+            "seg": "Segmentation/teeth_mask/336.jpg",
+            "msk": "Segmentation/maxillomandibular/336.jpg"
+        },
+        {
+            "img": "Radiographs/324.JPG",
+            "seg": "Segmentation/teeth_mask/324.jpg",
+            "msk": "Segmentation/maxillomandibular/324.jpg"
+        },
+        {
+            "img": "Radiographs/814.JPG",
+            "seg": "Segmentation/teeth_mask/814.jpg",
+            "msk": "Segmentation/maxillomandibular/814.jpg"
+        },
+        {
+            "img": "Radiographs/165.JPG",
+            "seg": "Segmentation/teeth_mask/165.jpg",
+            "msk": "Segmentation/maxillomandibular/165.jpg"
+        },
+        {
+            "img": "Radiographs/806.JPG",
+            "seg": "Segmentation/teeth_mask/806.jpg",
+            "msk": "Segmentation/maxillomandibular/806.jpg"
+        },
+        {
+            "img": "Radiographs/397.JPG",
+            "seg": "Segmentation/teeth_mask/397.jpg",
+            "msk": "Segmentation/maxillomandibular/397.jpg"
+        },
+        {
+            "img": "Radiographs/391.JPG",
+            "seg": "Segmentation/teeth_mask/391.jpg",
+            "msk": "Segmentation/maxillomandibular/391.jpg"
+        },
+        {
+            "img": "Radiographs/134.JPG",
+            "seg": "Segmentation/teeth_mask/134.jpg",
+            "msk": "Segmentation/maxillomandibular/134.jpg"
+        },
+        {
+            "img": "Radiographs/881.JPG",
+            "seg": "Segmentation/teeth_mask/881.jpg",
+            "msk": "Segmentation/maxillomandibular/881.jpg"
+        },
+        {
+            "img": "Radiographs/387.JPG",
+            "seg": "Segmentation/teeth_mask/387.jpg",
+            "msk": "Segmentation/maxillomandibular/387.jpg"
+        },
+        {
+            "img": "Radiographs/589.JPG",
+            "seg": "Segmentation/teeth_mask/589.jpg",
+            "msk": "Segmentation/maxillomandibular/589.jpg"
+        },
+        {
+            "img": "Radiographs/572.JPG",
+            "seg": "Segmentation/teeth_mask/572.jpg",
+            "msk": "Segmentation/maxillomandibular/572.jpg"
+        },
+        {
+            "img": "Radiographs/915.JPG",
+            "seg": "Segmentation/teeth_mask/915.jpg",
+            "msk": "Segmentation/maxillomandibular/915.jpg"
+        },
+        {
+            "img": "Radiographs/140.JPG",
+            "seg": "Segmentation/teeth_mask/140.jpg",
+            "msk": "Segmentation/maxillomandibular/140.jpg"
+        },
+        {
+            "img": "Radiographs/347.JPG",
+            "seg": "Segmentation/teeth_mask/347.jpg",
+            "msk": "Segmentation/maxillomandibular/347.jpg"
+        },
+        {
+            "img": "Radiographs/363.JPG",
+            "seg": "Segmentation/teeth_mask/363.jpg",
+            "msk": "Segmentation/maxillomandibular/363.jpg"
+        },
+        {
+            "img": "Radiographs/310.JPG",
+            "seg": "Segmentation/teeth_mask/310.jpg",
+            "msk": "Segmentation/maxillomandibular/310.jpg"
+        },
+        {
+            "img": "Radiographs/938.JPG",
+            "seg": "Segmentation/teeth_mask/938.jpg",
+            "msk": "Segmentation/maxillomandibular/938.jpg"
+        },
+        {
+            "img": "Radiographs/356.JPG",
+            "seg": "Segmentation/teeth_mask/356.jpg",
+            "msk": "Segmentation/maxillomandibular/356.jpg"
+        },
+        {
+            "img": "Radiographs/127.JPG",
+            "seg": "Segmentation/teeth_mask/127.jpg",
+            "msk": "Segmentation/maxillomandibular/127.jpg"
+        },
+        {
+            "img": "Radiographs/1010.JPG",
+            "seg": "Segmentation/teeth_mask/1010.jpg",
+            "msk": "Segmentation/maxillomandibular/1010.jpg"
+        },
+        {
+            "img": "Radiographs/789.JPG",
+            "seg": "Segmentation/teeth_mask/789.jpg",
+            "msk": "Segmentation/maxillomandibular/789.jpg"
+        },
+        {
+            "img": "Radiographs/872.JPG",
+            "seg": "Segmentation/teeth_mask/872.jpg",
+            "msk": "Segmentation/maxillomandibular/872.jpg"
+        },
+        {
+            "img": "Radiographs/758.JPG",
+            "seg": "Segmentation/teeth_mask/758.jpg",
+            "msk": "Segmentation/maxillomandibular/758.jpg"
+        },
+        {
+            "img": "Radiographs/504.JPG",
+            "seg": "Segmentation/teeth_mask/504.jpg",
+            "msk": "Segmentation/maxillomandibular/504.jpg"
+        },
+        {
+            "img": "Radiographs/920.JPG",
+            "seg": "Segmentation/teeth_mask/920.jpg",
+            "msk": "Segmentation/maxillomandibular/920.jpg"
+        },
+        {
+            "img": "Radiographs/699.JPG",
+            "seg": "Segmentation/teeth_mask/699.jpg",
+            "msk": "Segmentation/maxillomandibular/699.jpg"
+        },
+        {
+            "img": "Radiographs/246.JPG",
+            "seg": "Segmentation/teeth_mask/246.jpg",
+            "msk": "Segmentation/maxillomandibular/246.jpg"
+        },
+        {
+            "img": "Radiographs/513.JPG",
+            "seg": "Segmentation/teeth_mask/513.jpg",
+            "msk": "Segmentation/maxillomandibular/513.jpg"
+        },
+        {
+            "img": "Radiographs/350.JPG",
+            "seg": "Segmentation/teeth_mask/350.jpg",
+            "msk": "Segmentation/maxillomandibular/350.jpg"
+        },
+        {
+            "img": "Radiographs/353.JPG",
+            "seg": "Segmentation/teeth_mask/353.jpg",
+            "msk": "Segmentation/maxillomandibular/353.jpg"
+        },
+        {
+            "img": "Radiographs/84.JPG",
+            "seg": "Segmentation/teeth_mask/84.jpg",
+            "msk": "Segmentation/maxillomandibular/84.jpg"
+        },
+        {
+            "img": "Radiographs/79.JPG",
+            "seg": "Segmentation/teeth_mask/79.jpg",
+            "msk": "Segmentation/maxillomandibular/79.jpg"
+        },
+        {
+            "img": "Radiographs/909.JPG",
+            "seg": "Segmentation/teeth_mask/909.jpg",
+            "msk": "Segmentation/maxillomandibular/909.jpg"
+        },
+        {
+            "img": "Radiographs/964.JPG",
+            "seg": "Segmentation/teeth_mask/964.jpg",
+            "msk": "Segmentation/maxillomandibular/964.jpg"
+        },
+        {
+            "img": "Radiographs/637.JPG",
+            "seg": "Segmentation/teeth_mask/637.jpg",
+            "msk": "Segmentation/maxillomandibular/637.jpg"
+        },
+        {
+            "img": "Radiographs/681.JPG",
+            "seg": "Segmentation/teeth_mask/681.jpg",
+            "msk": "Segmentation/maxillomandibular/681.jpg"
+        },
+        {
+            "img": "Radiographs/612.JPG",
+            "seg": "Segmentation/teeth_mask/612.jpg",
+            "msk": "Segmentation/maxillomandibular/612.jpg"
+        },
+        {
+            "img": "Radiographs/107.JPG",
+            "seg": "Segmentation/teeth_mask/107.jpg",
+            "msk": "Segmentation/maxillomandibular/107.jpg"
+        },
+        {
+            "img": "Radiographs/788.JPG",
+            "seg": "Segmentation/teeth_mask/788.jpg",
+            "msk": "Segmentation/maxillomandibular/788.jpg"
+        },
+        {
+            "img": "Radiographs/975.JPG",
+            "seg": "Segmentation/teeth_mask/975.jpg",
+            "msk": "Segmentation/maxillomandibular/975.jpg"
+        },
+        {
+            "img": "Radiographs/711.JPG",
+            "seg": "Segmentation/teeth_mask/711.jpg",
+            "msk": "Segmentation/maxillomandibular/711.jpg"
+        },
+        {
+            "img": "Radiographs/182.JPG",
+            "seg": "Segmentation/teeth_mask/182.jpg",
+            "msk": "Segmentation/maxillomandibular/182.jpg"
+        },
+        {
+            "img": "Radiographs/42.JPG",
+            "seg": "Segmentation/teeth_mask/42.jpg",
+            "msk": "Segmentation/maxillomandibular/42.jpg"
+        },
+        {
+            "img": "Radiographs/754.JPG",
+            "seg": "Segmentation/teeth_mask/754.jpg",
+            "msk": "Segmentation/maxillomandibular/754.jpg"
+        },
+        {
+            "img": "Radiographs/178.JPG",
+            "seg": "Segmentation/teeth_mask/178.jpg",
+            "msk": "Segmentation/maxillomandibular/178.jpg"
+        },
+        {
+            "img": "Radiographs/312.JPG",
+            "seg": "Segmentation/teeth_mask/312.jpg",
+            "msk": "Segmentation/maxillomandibular/312.jpg"
+        },
+        {
+            "img": "Radiographs/927.JPG",
+            "seg": "Segmentation/teeth_mask/927.jpg",
+            "msk": "Segmentation/maxillomandibular/927.jpg"
+        },
+        {
+            "img": "Radiographs/286.JPG",
+            "seg": "Segmentation/teeth_mask/286.jpg",
+            "msk": "Segmentation/maxillomandibular/286.jpg"
+        },
+        {
+            "img": "Radiographs/541.JPG",
+            "seg": "Segmentation/teeth_mask/541.jpg",
+            "msk": "Segmentation/maxillomandibular/541.jpg"
+        },
+        {
+            "img": "Radiographs/113.JPG",
+            "seg": "Segmentation/teeth_mask/113.jpg",
+            "msk": "Segmentation/maxillomandibular/113.jpg"
+        },
+        {
+            "img": "Radiographs/954.JPG",
+            "seg": "Segmentation/teeth_mask/954.jpg",
+            "msk": "Segmentation/maxillomandibular/954.jpg"
+        },
+        {
+            "img": "Radiographs/1037.JPG",
+            "seg": "Segmentation/teeth_mask/1037.jpg",
+            "msk": "Segmentation/maxillomandibular/1037.jpg"
+        },
+        {
+            "img": "Radiographs/91.JPG",
+            "seg": "Segmentation/teeth_mask/91.jpg",
+            "msk": "Segmentation/maxillomandibular/91.jpg"
+        },
+        {
+            "img": "Radiographs/437.JPG",
+            "seg": "Segmentation/teeth_mask/437.jpg",
+            "msk": "Segmentation/maxillomandibular/437.jpg"
+        },
+        {
+            "img": "Radiographs/956.JPG",
+            "seg": "Segmentation/teeth_mask/956.jpg",
+            "msk": "Segmentation/maxillomandibular/956.jpg"
+        },
+        {
+            "img": "Radiographs/233.JPG",
+            "seg": "Segmentation/teeth_mask/233.jpg",
+            "msk": "Segmentation/maxillomandibular/233.jpg"
+        },
+        {
+            "img": "Radiographs/198.JPG",
+            "seg": "Segmentation/teeth_mask/198.jpg",
+            "msk": "Segmentation/maxillomandibular/198.jpg"
+        },
+        {
+            "img": "Radiographs/573.JPG",
+            "seg": "Segmentation/teeth_mask/573.jpg",
+            "msk": "Segmentation/maxillomandibular/573.jpg"
+        },
+        {
+            "img": "Radiographs/213.JPG",
+            "seg": "Segmentation/teeth_mask/213.jpg",
+            "msk": "Segmentation/maxillomandibular/213.jpg"
+        },
+        {
+            "img": "Radiographs/379.JPG",
+            "seg": "Segmentation/teeth_mask/379.jpg",
+            "msk": "Segmentation/maxillomandibular/379.jpg"
+        },
+        {
+            "img": "Radiographs/566.JPG",
+            "seg": "Segmentation/teeth_mask/566.jpg",
+            "msk": "Segmentation/maxillomandibular/566.jpg"
+        },
+        {
+            "img": "Radiographs/960.JPG",
+            "seg": "Segmentation/teeth_mask/960.jpg",
+            "msk": "Segmentation/maxillomandibular/960.jpg"
+        },
+        {
+            "img": "Radiographs/747.JPG",
+            "seg": "Segmentation/teeth_mask/747.jpg",
+            "msk": "Segmentation/maxillomandibular/747.jpg"
+        },
+        {
+            "img": "Radiographs/126.JPG",
+            "seg": "Segmentation/teeth_mask/126.jpg",
+            "msk": "Segmentation/maxillomandibular/126.jpg"
+        },
+        {
+            "img": "Radiographs/620.JPG",
+            "seg": "Segmentation/teeth_mask/620.jpg",
+            "msk": "Segmentation/maxillomandibular/620.jpg"
+        },
+        {
+            "img": "Radiographs/382.JPG",
+            "seg": "Segmentation/teeth_mask/382.jpg",
+            "msk": "Segmentation/maxillomandibular/382.jpg"
+        },
+        {
+            "img": "Radiographs/883.JPG",
+            "seg": "Segmentation/teeth_mask/883.jpg",
+            "msk": "Segmentation/maxillomandibular/883.jpg"
+        },
+        {
+            "img": "Radiographs/124.JPG",
+            "seg": "Segmentation/teeth_mask/124.jpg",
+            "msk": "Segmentation/maxillomandibular/124.jpg"
+        },
+        {
+            "img": "Radiographs/440.JPG",
+            "seg": "Segmentation/teeth_mask/440.jpg",
+            "msk": "Segmentation/maxillomandibular/440.jpg"
+        },
+        {
+            "img": "Radiographs/971.JPG",
+            "seg": "Segmentation/teeth_mask/971.jpg",
+            "msk": "Segmentation/maxillomandibular/971.jpg"
+        },
+        {
+            "img": "Radiographs/329.JPG",
+            "seg": "Segmentation/teeth_mask/329.jpg",
+            "msk": "Segmentation/maxillomandibular/329.jpg"
+        },
+        {
+            "img": "Radiographs/262.JPG",
+            "seg": "Segmentation/teeth_mask/262.jpg",
+            "msk": "Segmentation/maxillomandibular/262.jpg"
+        },
+        {
+            "img": "Radiographs/916.JPG",
+            "seg": "Segmentation/teeth_mask/916.jpg",
+            "msk": "Segmentation/maxillomandibular/916.jpg"
+        },
+        {
+            "img": "Radiographs/208.JPG",
+            "seg": "Segmentation/teeth_mask/208.jpg",
+            "msk": "Segmentation/maxillomandibular/208.jpg"
+        },
+        {
+            "img": "Radiographs/1.JPG",
+            "seg": "Segmentation/teeth_mask/1.jpg",
+            "msk": "Segmentation/maxillomandibular/1.jpg"
+        },
+        {
+            "img": "Radiographs/611.JPG",
+            "seg": "Segmentation/teeth_mask/611.jpg",
+            "msk": "Segmentation/maxillomandibular/611.jpg"
+        },
+        {
+            "img": "Radiographs/918.JPG",
+            "seg": "Segmentation/teeth_mask/918.jpg",
+            "msk": "Segmentation/maxillomandibular/918.jpg"
+        },
+        {
+            "img": "Radiographs/19.JPG",
+            "seg": "Segmentation/teeth_mask/19.jpg",
+            "msk": "Segmentation/maxillomandibular/19.jpg"
+        },
+        {
+            "img": "Radiographs/533.JPG",
+            "seg": "Segmentation/teeth_mask/533.jpg",
+            "msk": "Segmentation/maxillomandibular/533.jpg"
+        },
+        {
+            "img": "Radiographs/790.JPG",
+            "seg": "Segmentation/teeth_mask/790.jpg",
+            "msk": "Segmentation/maxillomandibular/790.jpg"
+        },
+        {
+            "img": "Radiographs/1017.JPG",
+            "seg": "Segmentation/teeth_mask/1017.jpg",
+            "msk": "Segmentation/maxillomandibular/1017.jpg"
+        },
+        {
+            "img": "Radiographs/148.JPG",
+            "seg": "Segmentation/teeth_mask/148.jpg",
+            "msk": "Segmentation/maxillomandibular/148.jpg"
+        },
+        {
+            "img": "Radiographs/86.JPG",
+            "seg": "Segmentation/teeth_mask/86.jpg",
+            "msk": "Segmentation/maxillomandibular/86.jpg"
+        },
+        {
+            "img": "Radiographs/1039.JPG",
+            "seg": "Segmentation/teeth_mask/1039.jpg",
+            "msk": "Segmentation/maxillomandibular/1039.jpg"
+        },
+        {
+            "img": "Radiographs/458.JPG",
+            "seg": "Segmentation/teeth_mask/458.jpg",
+            "msk": "Segmentation/maxillomandibular/458.jpg"
+        },
+        {
+            "img": "Radiographs/223.JPG",
+            "seg": "Segmentation/teeth_mask/223.jpg",
+            "msk": "Segmentation/maxillomandibular/223.jpg"
+        },
+        {
+            "img": "Radiographs/644.JPG",
+            "seg": "Segmentation/teeth_mask/644.jpg",
+            "msk": "Segmentation/maxillomandibular/644.jpg"
+        },
+        {
+            "img": "Radiographs/341.JPG",
+            "seg": "Segmentation/teeth_mask/341.jpg",
+            "msk": "Segmentation/maxillomandibular/341.jpg"
+        },
+        {
+            "img": "Radiographs/83.JPG",
+            "seg": "Segmentation/teeth_mask/83.jpg",
+            "msk": "Segmentation/maxillomandibular/83.jpg"
+        },
+        {
+            "img": "Radiographs/267.JPG",
+            "seg": "Segmentation/teeth_mask/267.jpg",
+            "msk": "Segmentation/maxillomandibular/267.jpg"
+        },
+        {
+            "img": "Radiographs/770.JPG",
+            "seg": "Segmentation/teeth_mask/770.jpg",
+            "msk": "Segmentation/maxillomandibular/770.jpg"
+        },
+        {
+            "img": "Radiographs/403.JPG",
+            "seg": "Segmentation/teeth_mask/403.jpg",
+            "msk": "Segmentation/maxillomandibular/403.jpg"
+        },
+        {
+            "img": "Radiographs/885.JPG",
+            "seg": "Segmentation/teeth_mask/885.jpg",
+            "msk": "Segmentation/maxillomandibular/885.jpg"
+        },
+        {
+            "img": "Radiographs/210.JPG",
+            "seg": "Segmentation/teeth_mask/210.jpg",
+            "msk": "Segmentation/maxillomandibular/210.jpg"
+        },
+        {
+            "img": "Radiographs/325.JPG",
+            "seg": "Segmentation/teeth_mask/325.jpg",
+            "msk": "Segmentation/maxillomandibular/325.jpg"
+        },
+        {
+            "img": "Radiographs/7.JPG",
+            "seg": "Segmentation/teeth_mask/7.jpg",
+            "msk": "Segmentation/maxillomandibular/7.jpg"
+        },
+        {
+            "img": "Radiographs/494.JPG",
+            "seg": "Segmentation/teeth_mask/494.jpg",
+            "msk": "Segmentation/maxillomandibular/494.jpg"
+        },
+        {
+            "img": "Radiographs/236.JPG",
+            "seg": "Segmentation/teeth_mask/236.jpg",
+            "msk": "Segmentation/maxillomandibular/236.jpg"
+        },
+        {
+            "img": "Radiographs/499.JPG",
+            "seg": "Segmentation/teeth_mask/499.jpg",
+            "msk": "Segmentation/maxillomandibular/499.jpg"
+        },
+        {
+            "img": "Radiographs/983.JPG",
+            "seg": "Segmentation/teeth_mask/983.jpg",
+            "msk": "Segmentation/maxillomandibular/983.jpg"
+        },
+        {
+            "img": "Radiographs/321.JPG",
+            "seg": "Segmentation/teeth_mask/321.jpg",
+            "msk": "Segmentation/maxillomandibular/321.jpg"
+        },
+        {
+            "img": "Radiographs/713.JPG",
+            "seg": "Segmentation/teeth_mask/713.jpg",
+            "msk": "Segmentation/maxillomandibular/713.jpg"
+        },
+        {
+            "img": "Radiographs/861.JPG",
+            "seg": "Segmentation/teeth_mask/861.jpg",
+            "msk": "Segmentation/maxillomandibular/861.jpg"
+        },
+        {
+            "img": "Radiographs/132.JPG",
+            "seg": "Segmentation/teeth_mask/132.jpg",
+            "msk": "Segmentation/maxillomandibular/132.jpg"
+        },
+        {
+            "img": "Radiographs/192.JPG",
+            "seg": "Segmentation/teeth_mask/192.jpg",
+            "msk": "Segmentation/maxillomandibular/192.jpg"
+        },
+        {
+            "img": "Radiographs/725.JPG",
+            "seg": "Segmentation/teeth_mask/725.jpg",
+            "msk": "Segmentation/maxillomandibular/725.jpg"
+        },
+        {
+            "img": "Radiographs/748.JPG",
+            "seg": "Segmentation/teeth_mask/748.jpg",
+            "msk": "Segmentation/maxillomandibular/748.jpg"
+        },
+        {
+            "img": "Radiographs/890.JPG",
+            "seg": "Segmentation/teeth_mask/890.jpg",
+            "msk": "Segmentation/maxillomandibular/890.jpg"
+        },
+        {
+            "img": "Radiographs/560.JPG",
+            "seg": "Segmentation/teeth_mask/560.jpg",
+            "msk": "Segmentation/maxillomandibular/560.jpg"
+        },
+        {
+            "img": "Radiographs/697.JPG",
+            "seg": "Segmentation/teeth_mask/697.jpg",
+            "msk": "Segmentation/maxillomandibular/697.jpg"
+        },
+        {
+            "img": "Radiographs/605.JPG",
+            "seg": "Segmentation/teeth_mask/605.jpg",
+            "msk": "Segmentation/maxillomandibular/605.jpg"
+        },
+        {
+            "img": "Radiographs/600.JPG",
+            "seg": "Segmentation/teeth_mask/600.jpg",
+            "msk": "Segmentation/maxillomandibular/600.jpg"
+        },
+        {
+            "img": "Radiographs/853.JPG",
+            "seg": "Segmentation/teeth_mask/853.jpg",
+            "msk": "Segmentation/maxillomandibular/853.jpg"
+        },
+        {
+            "img": "Radiographs/294.JPG",
+            "seg": "Segmentation/teeth_mask/294.jpg",
+            "msk": "Segmentation/maxillomandibular/294.jpg"
+        },
+        {
+            "img": "Radiographs/185.JPG",
+            "seg": "Segmentation/teeth_mask/185.jpg",
+            "msk": "Segmentation/maxillomandibular/185.jpg"
+        },
+        {
+            "img": "Radiographs/965.JPG",
+            "seg": "Segmentation/teeth_mask/965.jpg",
+            "msk": "Segmentation/maxillomandibular/965.jpg"
+        },
+        {
+            "img": "Radiographs/846.JPG",
+            "seg": "Segmentation/teeth_mask/846.jpg",
+            "msk": "Segmentation/maxillomandibular/846.jpg"
+        },
+        {
+            "img": "Radiographs/917.JPG",
+            "seg": "Segmentation/teeth_mask/917.jpg",
+            "msk": "Segmentation/maxillomandibular/917.jpg"
+        },
+        {
+            "img": "Radiographs/205.JPG",
+            "seg": "Segmentation/teeth_mask/205.jpg",
+            "msk": "Segmentation/maxillomandibular/205.jpg"
+        },
+        {
+            "img": "Radiographs/682.JPG",
+            "seg": "Segmentation/teeth_mask/682.jpg",
+            "msk": "Segmentation/maxillomandibular/682.jpg"
+        },
+        {
+            "img": "Radiographs/724.JPG",
+            "seg": "Segmentation/teeth_mask/724.jpg",
+            "msk": "Segmentation/maxillomandibular/724.jpg"
+        },
+        {
+            "img": "Radiographs/715.JPG",
+            "seg": "Segmentation/teeth_mask/715.jpg",
+            "msk": "Segmentation/maxillomandibular/715.jpg"
+        },
+        {
+            "img": "Radiographs/900.JPG",
+            "seg": "Segmentation/teeth_mask/900.jpg",
+            "msk": "Segmentation/maxillomandibular/900.jpg"
+        },
+        {
+            "img": "Radiographs/860.JPG",
+            "seg": "Segmentation/teeth_mask/860.jpg",
+            "msk": "Segmentation/maxillomandibular/860.jpg"
+        },
+        {
+            "img": "Radiographs/740.JPG",
+            "seg": "Segmentation/teeth_mask/740.jpg",
+            "msk": "Segmentation/maxillomandibular/740.jpg"
+        },
+        {
+            "img": "Radiographs/774.JPG",
+            "seg": "Segmentation/teeth_mask/774.jpg",
+            "msk": "Segmentation/maxillomandibular/774.jpg"
+        },
+        {
+            "img": "Radiographs/717.JPG",
+            "seg": "Segmentation/teeth_mask/717.jpg",
+            "msk": "Segmentation/maxillomandibular/717.jpg"
+        },
+        {
+            "img": "Radiographs/254.JPG",
+            "seg": "Segmentation/teeth_mask/254.jpg",
+            "msk": "Segmentation/maxillomandibular/254.jpg"
+        },
+        {
+            "img": "Radiographs/167.JPG",
+            "seg": "Segmentation/teeth_mask/167.jpg",
+            "msk": "Segmentation/maxillomandibular/167.jpg"
+        },
+        {
+            "img": "Radiographs/215.JPG",
+            "seg": "Segmentation/teeth_mask/215.jpg",
+            "msk": "Segmentation/maxillomandibular/215.jpg"
+        },
+        {
+            "img": "Radiographs/284.JPG",
+            "seg": "Segmentation/teeth_mask/284.jpg",
+            "msk": "Segmentation/maxillomandibular/284.jpg"
+        },
+        {
+            "img": "Radiographs/835.JPG",
+            "seg": "Segmentation/teeth_mask/835.jpg",
+            "msk": "Segmentation/maxillomandibular/835.jpg"
+        },
+        {
+            "img": "Radiographs/812.JPG",
+            "seg": "Segmentation/teeth_mask/812.jpg",
+            "msk": "Segmentation/maxillomandibular/812.jpg"
+        },
+        {
+            "img": "Radiographs/652.JPG",
+            "seg": "Segmentation/teeth_mask/652.jpg",
+            "msk": "Segmentation/maxillomandibular/652.jpg"
+        },
+        {
+            "img": "Radiographs/160.JPG",
+            "seg": "Segmentation/teeth_mask/160.jpg",
+            "msk": "Segmentation/maxillomandibular/160.jpg"
+        },
+        {
+            "img": "Radiographs/298.JPG",
+            "seg": "Segmentation/teeth_mask/298.jpg",
+            "msk": "Segmentation/maxillomandibular/298.jpg"
+        },
+        {
+            "img": "Radiographs/240.JPG",
+            "seg": "Segmentation/teeth_mask/240.jpg",
+            "msk": "Segmentation/maxillomandibular/240.jpg"
+        },
+        {
+            "img": "Radiographs/735.JPG",
+            "seg": "Segmentation/teeth_mask/735.jpg",
+            "msk": "Segmentation/maxillomandibular/735.jpg"
+        },
+        {
+            "img": "Radiographs/565.JPG",
+            "seg": "Segmentation/teeth_mask/565.jpg",
+            "msk": "Segmentation/maxillomandibular/565.jpg"
+        },
+        {
+            "img": "Radiographs/219.JPG",
+            "seg": "Segmentation/teeth_mask/219.jpg",
+            "msk": "Segmentation/maxillomandibular/219.jpg"
+        },
+        {
+            "img": "Radiographs/591.JPG",
+            "seg": "Segmentation/teeth_mask/591.jpg",
+            "msk": "Segmentation/maxillomandibular/591.jpg"
+        },
+        {
+            "img": "Radiographs/627.JPG",
+            "seg": "Segmentation/teeth_mask/627.jpg",
+            "msk": "Segmentation/maxillomandibular/627.jpg"
+        },
+        {
+            "img": "Radiographs/972.JPG",
+            "seg": "Segmentation/teeth_mask/972.jpg",
+            "msk": "Segmentation/maxillomandibular/972.jpg"
+        },
+        {
+            "img": "Radiographs/979.JPG",
+            "seg": "Segmentation/teeth_mask/979.jpg",
+            "msk": "Segmentation/maxillomandibular/979.jpg"
+        },
+        {
+            "img": "Radiographs/760.JPG",
+            "seg": "Segmentation/teeth_mask/760.jpg",
+            "msk": "Segmentation/maxillomandibular/760.jpg"
+        },
+        {
+            "img": "Radiographs/523.JPG",
+            "seg": "Segmentation/teeth_mask/523.jpg",
+            "msk": "Segmentation/maxillomandibular/523.jpg"
+        },
+        {
+            "img": "Radiographs/532.JPG",
+            "seg": "Segmentation/teeth_mask/532.jpg",
+            "msk": "Segmentation/maxillomandibular/532.jpg"
+        },
+        {
+            "img": "Radiographs/690.JPG",
+            "seg": "Segmentation/teeth_mask/690.jpg",
+            "msk": "Segmentation/maxillomandibular/690.jpg"
+        },
+        {
+            "img": "Radiographs/994.JPG",
+            "seg": "Segmentation/teeth_mask/994.jpg",
+            "msk": "Segmentation/maxillomandibular/994.jpg"
+        },
+        {
+            "img": "Radiographs/778.JPG",
+            "seg": "Segmentation/teeth_mask/778.jpg",
+            "msk": "Segmentation/maxillomandibular/778.jpg"
+        },
+        {
+            "img": "Radiographs/593.JPG",
+            "seg": "Segmentation/teeth_mask/593.jpg",
+            "msk": "Segmentation/maxillomandibular/593.jpg"
+        },
+        {
+            "img": "Radiographs/538.JPG",
+            "seg": "Segmentation/teeth_mask/538.jpg",
+            "msk": "Segmentation/maxillomandibular/538.jpg"
+        },
+        {
+            "img": "Radiographs/624.JPG",
+            "seg": "Segmentation/teeth_mask/624.jpg",
+            "msk": "Segmentation/maxillomandibular/624.jpg"
+        },
+        {
+            "img": "Radiographs/190.JPG",
+            "seg": "Segmentation/teeth_mask/190.jpg",
+            "msk": "Segmentation/maxillomandibular/190.jpg"
+        },
+        {
+            "img": "Radiographs/942.JPG",
+            "seg": "Segmentation/teeth_mask/942.jpg",
+            "msk": "Segmentation/maxillomandibular/942.jpg"
+        },
+        {
+            "img": "Radiographs/545.JPG",
+            "seg": "Segmentation/teeth_mask/545.jpg",
+            "msk": "Segmentation/maxillomandibular/545.jpg"
+        },
+        {
+            "img": "Radiographs/544.JPG",
+            "seg": "Segmentation/teeth_mask/544.jpg",
+            "msk": "Segmentation/maxillomandibular/544.jpg"
+        },
+        {
+            "img": "Radiographs/1002.JPG",
+            "seg": "Segmentation/teeth_mask/1002.jpg",
+            "msk": "Segmentation/maxillomandibular/1002.jpg"
+        },
+        {
+            "img": "Radiographs/590.JPG",
+            "seg": "Segmentation/teeth_mask/590.jpg",
+            "msk": "Segmentation/maxillomandibular/590.jpg"
+        },
+        {
+            "img": "Radiographs/940.JPG",
+            "seg": "Segmentation/teeth_mask/940.jpg",
+            "msk": "Segmentation/maxillomandibular/940.jpg"
+        },
+        {
+            "img": "Radiographs/557.JPG",
+            "seg": "Segmentation/teeth_mask/557.jpg",
+            "msk": "Segmentation/maxillomandibular/557.jpg"
+        },
+        {
+            "img": "Radiographs/1007.JPG",
+            "seg": "Segmentation/teeth_mask/1007.jpg",
+            "msk": "Segmentation/maxillomandibular/1007.jpg"
+        },
+        {
+            "img": "Radiographs/239.JPG",
+            "seg": "Segmentation/teeth_mask/239.jpg",
+            "msk": "Segmentation/maxillomandibular/239.jpg"
+        },
+        {
+            "img": "Radiographs/1001.JPG",
+            "seg": "Segmentation/teeth_mask/1001.jpg",
+            "msk": "Segmentation/maxillomandibular/1001.jpg"
+        },
+        {
+            "img": "Radiographs/470.JPG",
+            "seg": "Segmentation/teeth_mask/470.jpg",
+            "msk": "Segmentation/maxillomandibular/470.jpg"
+        },
+        {
+            "img": "Radiographs/250.JPG",
+            "seg": "Segmentation/teeth_mask/250.jpg",
+            "msk": "Segmentation/maxillomandibular/250.jpg"
+        },
+        {
+            "img": "Radiographs/799.JPG",
+            "seg": "Segmentation/teeth_mask/799.jpg",
+            "msk": "Segmentation/maxillomandibular/799.jpg"
+        },
+        {
+            "img": "Radiographs/643.JPG",
+            "seg": "Segmentation/teeth_mask/643.jpg",
+            "msk": "Segmentation/maxillomandibular/643.jpg"
+        },
+        {
+            "img": "Radiographs/953.JPG",
+            "seg": "Segmentation/teeth_mask/953.jpg",
+            "msk": "Segmentation/maxillomandibular/953.jpg"
+        },
+        {
+            "img": "Radiographs/771.JPG",
+            "seg": "Segmentation/teeth_mask/771.jpg",
+            "msk": "Segmentation/maxillomandibular/771.jpg"
+        },
+        {
+            "img": "Radiographs/368.JPG",
+            "seg": "Segmentation/teeth_mask/368.jpg",
+            "msk": "Segmentation/maxillomandibular/368.jpg"
+        },
+        {
+            "img": "Radiographs/755.JPG",
+            "seg": "Segmentation/teeth_mask/755.jpg",
+            "msk": "Segmentation/maxillomandibular/755.jpg"
+        },
+        {
+            "img": "Radiographs/96.JPG",
+            "seg": "Segmentation/teeth_mask/96.jpg",
+            "msk": "Segmentation/maxillomandibular/96.jpg"
+        },
+        {
+            "img": "Radiographs/684.JPG",
+            "seg": "Segmentation/teeth_mask/684.jpg",
+            "msk": "Segmentation/maxillomandibular/684.jpg"
+        },
+        {
+            "img": "Radiographs/158.JPG",
+            "seg": "Segmentation/teeth_mask/158.jpg",
+            "msk": "Segmentation/maxillomandibular/158.jpg"
+        },
+        {
+            "img": "Radiographs/201.JPG",
+            "seg": "Segmentation/teeth_mask/201.jpg",
+            "msk": "Segmentation/maxillomandibular/201.jpg"
+        },
+        {
+            "img": "Radiographs/742.JPG",
+            "seg": "Segmentation/teeth_mask/742.jpg",
+            "msk": "Segmentation/maxillomandibular/742.jpg"
+        },
+        {
+            "img": "Radiographs/188.JPG",
+            "seg": "Segmentation/teeth_mask/188.jpg",
+            "msk": "Segmentation/maxillomandibular/188.jpg"
+        },
+        {
+            "img": "Radiographs/536.JPG",
+            "seg": "Segmentation/teeth_mask/536.jpg",
+            "msk": "Segmentation/maxillomandibular/536.jpg"
+        },
+        {
+            "img": "Radiographs/232.JPG",
+            "seg": "Segmentation/teeth_mask/232.jpg",
+            "msk": "Segmentation/maxillomandibular/232.jpg"
+        },
+        {
+            "img": "Radiographs/583.JPG",
+            "seg": "Segmentation/teeth_mask/583.jpg",
+            "msk": "Segmentation/maxillomandibular/583.jpg"
+        },
+        {
+            "img": "Radiographs/202.JPG",
+            "seg": "Segmentation/teeth_mask/202.jpg",
+            "msk": "Segmentation/maxillomandibular/202.jpg"
+        },
+        {
+            "img": "Radiographs/704.JPG",
+            "seg": "Segmentation/teeth_mask/704.jpg",
+            "msk": "Segmentation/maxillomandibular/704.jpg"
+        },
+        {
+            "img": "Radiographs/55.JPG",
+            "seg": "Segmentation/teeth_mask/55.jpg",
+            "msk": "Segmentation/maxillomandibular/55.jpg"
+        },
+        {
+            "img": "Radiographs/838.JPG",
+            "seg": "Segmentation/teeth_mask/838.jpg",
+            "msk": "Segmentation/maxillomandibular/838.jpg"
+        },
+        {
+            "img": "Radiographs/633.JPG",
+            "seg": "Segmentation/teeth_mask/633.jpg",
+            "msk": "Segmentation/maxillomandibular/633.jpg"
+        },
+        {
+            "img": "Radiographs/114.JPG",
+            "seg": "Segmentation/teeth_mask/114.jpg",
+            "msk": "Segmentation/maxillomandibular/114.jpg"
+        },
+        {
+            "img": "Radiographs/72.JPG",
+            "seg": "Segmentation/teeth_mask/72.jpg",
+            "msk": "Segmentation/maxillomandibular/72.jpg"
+        },
+        {
+            "img": "Radiographs/1011.JPG",
+            "seg": "Segmentation/teeth_mask/1011.jpg",
+            "msk": "Segmentation/maxillomandibular/1011.jpg"
+        },
+        {
+            "img": "Radiographs/162.JPG",
+            "seg": "Segmentation/teeth_mask/162.jpg",
+            "msk": "Segmentation/maxillomandibular/162.jpg"
+        }
+    ],
+    "test": [
+        {
+            "img": "Radiographs/419.JPG",
+            "seg": "Segmentation/teeth_mask/419.jpg",
+            "msk": "Segmentation/maxillomandibular/419.jpg"
+        },
+        {
+            "img": "Radiographs/798.JPG",
+            "seg": "Segmentation/teeth_mask/798.jpg",
+            "msk": "Segmentation/maxillomandibular/798.jpg"
+        },
+        {
+            "img": "Radiographs/888.JPG",
+            "seg": "Segmentation/teeth_mask/888.jpg",
+            "msk": "Segmentation/maxillomandibular/888.jpg"
+        },
+        {
+            "img": "Radiographs/99.JPG",
+            "seg": "Segmentation/teeth_mask/99.jpg",
+            "msk": "Segmentation/maxillomandibular/99.jpg"
+        },
+        {
+            "img": "Radiographs/1035.JPG",
+            "seg": "Segmentation/teeth_mask/1035.jpg",
+            "msk": "Segmentation/maxillomandibular/1035.jpg"
+        },
+        {
+            "img": "Radiographs/247.JPG",
+            "seg": "Segmentation/teeth_mask/247.jpg",
+            "msk": "Segmentation/maxillomandibular/247.jpg"
+        },
+        {
+            "img": "Radiographs/602.JPG",
+            "seg": "Segmentation/teeth_mask/602.jpg",
+            "msk": "Segmentation/maxillomandibular/602.jpg"
+        },
+        {
+            "img": "Radiographs/34.JPG",
+            "seg": "Segmentation/teeth_mask/34.jpg",
+            "msk": "Segmentation/maxillomandibular/34.jpg"
+        },
+        {
+            "img": "Radiographs/780.JPG",
+            "seg": "Segmentation/teeth_mask/780.jpg",
+            "msk": "Segmentation/maxillomandibular/780.jpg"
+        },
+        {
+            "img": "Radiographs/487.JPG",
+            "seg": "Segmentation/teeth_mask/487.jpg",
+            "msk": "Segmentation/maxillomandibular/487.jpg"
+        },
+        {
+            "img": "Radiographs/449.JPG",
+            "seg": "Segmentation/teeth_mask/449.jpg",
+            "msk": "Segmentation/maxillomandibular/449.jpg"
+        },
+        {
+            "img": "Radiographs/237.JPG",
+            "seg": "Segmentation/teeth_mask/237.jpg",
+            "msk": "Segmentation/maxillomandibular/237.jpg"
+        },
+        {
+            "img": "Radiographs/749.JPG",
+            "seg": "Segmentation/teeth_mask/749.jpg",
+            "msk": "Segmentation/maxillomandibular/749.jpg"
+        },
+        {
+            "img": "Radiographs/230.JPG",
+            "seg": "Segmentation/teeth_mask/230.jpg",
+            "msk": "Segmentation/maxillomandibular/230.jpg"
+        },
+        {
+            "img": "Radiographs/570.JPG",
+            "seg": "Segmentation/teeth_mask/570.jpg",
+            "msk": "Segmentation/maxillomandibular/570.jpg"
+        },
+        {
+            "img": "Radiographs/585.JPG",
+            "seg": "Segmentation/teeth_mask/585.jpg",
+            "msk": "Segmentation/maxillomandibular/585.jpg"
+        },
+        {
+            "img": "Radiographs/876.JPG",
+            "seg": "Segmentation/teeth_mask/876.jpg",
+            "msk": "Segmentation/maxillomandibular/876.jpg"
+        },
+        {
+            "img": "Radiographs/518.JPG",
+            "seg": "Segmentation/teeth_mask/518.jpg",
+            "msk": "Segmentation/maxillomandibular/518.jpg"
+        },
+        {
+            "img": "Radiographs/783.JPG",
+            "seg": "Segmentation/teeth_mask/783.jpg",
+            "msk": "Segmentation/maxillomandibular/783.jpg"
+        },
+        {
+            "img": "Radiographs/490.JPG",
+            "seg": "Segmentation/teeth_mask/490.jpg",
+            "msk": "Segmentation/maxillomandibular/490.jpg"
+        },
+        {
+            "img": "Radiographs/549.JPG",
+            "seg": "Segmentation/teeth_mask/549.jpg",
+            "msk": "Segmentation/maxillomandibular/549.jpg"
+        },
+        {
+            "img": "Radiographs/330.JPG",
+            "seg": "Segmentation/teeth_mask/330.jpg",
+            "msk": "Segmentation/maxillomandibular/330.jpg"
+        },
+        {
+            "img": "Radiographs/604.JPG",
+            "seg": "Segmentation/teeth_mask/604.jpg",
+            "msk": "Segmentation/maxillomandibular/604.jpg"
+        },
+        {
+            "img": "Radiographs/447.JPG",
+            "seg": "Segmentation/teeth_mask/447.jpg",
+            "msk": "Segmentation/maxillomandibular/447.jpg"
+        },
+        {
+            "img": "Radiographs/116.JPG",
+            "seg": "Segmentation/teeth_mask/116.jpg",
+            "msk": "Segmentation/maxillomandibular/116.jpg"
+        },
+        {
+            "img": "Radiographs/301.JPG",
+            "seg": "Segmentation/teeth_mask/301.jpg",
+            "msk": "Segmentation/maxillomandibular/301.jpg"
+        },
+        {
+            "img": "Radiographs/659.JPG",
+            "seg": "Segmentation/teeth_mask/659.jpg",
+            "msk": "Segmentation/maxillomandibular/659.jpg"
+        },
+        {
+            "img": "Radiographs/367.JPG",
+            "seg": "Segmentation/teeth_mask/367.jpg",
+            "msk": "Segmentation/maxillomandibular/367.jpg"
+        },
+        {
+            "img": "Radiographs/283.JPG",
+            "seg": "Segmentation/teeth_mask/283.jpg",
+            "msk": "Segmentation/maxillomandibular/283.jpg"
+        },
+        {
+            "img": "Radiographs/576.JPG",
+            "seg": "Segmentation/teeth_mask/576.jpg",
+            "msk": "Segmentation/maxillomandibular/576.jpg"
+        },
+        {
+            "img": "Radiographs/386.JPG",
+            "seg": "Segmentation/teeth_mask/386.jpg",
+            "msk": "Segmentation/maxillomandibular/386.jpg"
+        },
+        {
+            "img": "Radiographs/17.JPG",
+            "seg": "Segmentation/teeth_mask/17.jpg",
+            "msk": "Segmentation/maxillomandibular/17.jpg"
+        },
+        {
+            "img": "Radiographs/1030.JPG",
+            "seg": "Segmentation/teeth_mask/1030.jpg",
+            "msk": "Segmentation/maxillomandibular/1030.jpg"
+        },
+        {
+            "img": "Radiographs/672.JPG",
+            "seg": "Segmentation/teeth_mask/672.jpg",
+            "msk": "Segmentation/maxillomandibular/672.jpg"
+        },
+        {
+            "img": "Radiographs/526.JPG",
+            "seg": "Segmentation/teeth_mask/526.jpg",
+            "msk": "Segmentation/maxillomandibular/526.jpg"
+        },
+        {
+            "img": "Radiographs/543.JPG",
+            "seg": "Segmentation/teeth_mask/543.jpg",
+            "msk": "Segmentation/maxillomandibular/543.jpg"
+        },
+        {
+            "img": "Radiographs/948.JPG",
+            "seg": "Segmentation/teeth_mask/948.jpg",
+            "msk": "Segmentation/maxillomandibular/948.jpg"
+        },
+        {
+            "img": "Radiographs/1044.JPG",
+            "seg": "Segmentation/teeth_mask/1044.jpg",
+            "msk": "Segmentation/maxillomandibular/1044.jpg"
+        },
+        {
+            "img": "Radiographs/174.JPG",
+            "seg": "Segmentation/teeth_mask/174.jpg",
+            "msk": "Segmentation/maxillomandibular/174.jpg"
+        },
+        {
+            "img": "Radiographs/429.JPG",
+            "seg": "Segmentation/teeth_mask/429.jpg",
+            "msk": "Segmentation/maxillomandibular/429.jpg"
+        },
+        {
+            "img": "Radiographs/841.JPG",
+            "seg": "Segmentation/teeth_mask/841.jpg",
+            "msk": "Segmentation/maxillomandibular/841.jpg"
+        },
+        {
+            "img": "Radiographs/63.JPG",
+            "seg": "Segmentation/teeth_mask/63.jpg",
+            "msk": "Segmentation/maxillomandibular/63.jpg"
+        },
+        {
+            "img": "Radiographs/840.JPG",
+            "seg": "Segmentation/teeth_mask/840.jpg",
+            "msk": "Segmentation/maxillomandibular/840.jpg"
+        },
+        {
+            "img": "Radiographs/732.JPG",
+            "seg": "Segmentation/teeth_mask/732.jpg",
+            "msk": "Segmentation/maxillomandibular/732.jpg"
+        },
+        {
+            "img": "Radiographs/914.JPG",
+            "seg": "Segmentation/teeth_mask/914.jpg",
+            "msk": "Segmentation/maxillomandibular/914.jpg"
+        },
+        {
+            "img": "Radiographs/503.JPG",
+            "seg": "Segmentation/teeth_mask/503.jpg",
+            "msk": "Segmentation/maxillomandibular/503.jpg"
+        },
+        {
+            "img": "Radiographs/378.JPG",
+            "seg": "Segmentation/teeth_mask/378.jpg",
+            "msk": "Segmentation/maxillomandibular/378.jpg"
+        },
+        {
+            "img": "Radiographs/509.JPG",
+            "seg": "Segmentation/teeth_mask/509.jpg",
+            "msk": "Segmentation/maxillomandibular/509.jpg"
+        },
+        {
+            "img": "Radiographs/309.JPG",
+            "seg": "Segmentation/teeth_mask/309.jpg",
+            "msk": "Segmentation/maxillomandibular/309.jpg"
+        },
+        {
+            "img": "Radiographs/245.JPG",
+            "seg": "Segmentation/teeth_mask/245.jpg",
+            "msk": "Segmentation/maxillomandibular/245.jpg"
+        },
+        {
+            "img": "Radiographs/50.JPG",
+            "seg": "Segmentation/teeth_mask/50.jpg",
+            "msk": "Segmentation/maxillomandibular/50.jpg"
+        },
+        {
+            "img": "Radiographs/768.JPG",
+            "seg": "Segmentation/teeth_mask/768.jpg",
+            "msk": "Segmentation/maxillomandibular/768.jpg"
+        },
+        {
+            "img": "Radiographs/4.JPG",
+            "seg": "Segmentation/teeth_mask/4.jpg",
+            "msk": "Segmentation/maxillomandibular/4.jpg"
+        },
+        {
+            "img": "Radiographs/170.JPG",
+            "seg": "Segmentation/teeth_mask/170.jpg",
+            "msk": "Segmentation/maxillomandibular/170.jpg"
+        },
+        {
+            "img": "Radiographs/741.JPG",
+            "seg": "Segmentation/teeth_mask/741.jpg",
+            "msk": "Segmentation/maxillomandibular/741.jpg"
+        },
+        {
+            "img": "Radiographs/625.JPG",
+            "seg": "Segmentation/teeth_mask/625.jpg",
+            "msk": "Segmentation/maxillomandibular/625.jpg"
+        },
+        {
+            "img": "Radiographs/899.JPG",
+            "seg": "Segmentation/teeth_mask/899.jpg",
+            "msk": "Segmentation/maxillomandibular/899.jpg"
+        },
+        {
+            "img": "Radiographs/997.JPG",
+            "seg": "Segmentation/teeth_mask/997.jpg",
+            "msk": "Segmentation/maxillomandibular/997.jpg"
+        },
+        {
+            "img": "Radiographs/8.JPG",
+            "seg": "Segmentation/teeth_mask/8.jpg",
+            "msk": "Segmentation/maxillomandibular/8.jpg"
+        },
+        {
+            "img": "Radiographs/828.JPG",
+            "seg": "Segmentation/teeth_mask/828.jpg",
+            "msk": "Segmentation/maxillomandibular/828.jpg"
+        },
+        {
+            "img": "Radiographs/374.JPG",
+            "seg": "Segmentation/teeth_mask/374.jpg",
+            "msk": "Segmentation/maxillomandibular/374.jpg"
+        },
+        {
+            "img": "Radiographs/372.JPG",
+            "seg": "Segmentation/teeth_mask/372.jpg",
+            "msk": "Segmentation/maxillomandibular/372.jpg"
+        },
+        {
+            "img": "Radiographs/156.JPG",
+            "seg": "Segmentation/teeth_mask/156.jpg",
+            "msk": "Segmentation/maxillomandibular/156.jpg"
+        },
+        {
+            "img": "Radiographs/251.JPG",
+            "seg": "Segmentation/teeth_mask/251.jpg",
+            "msk": "Segmentation/maxillomandibular/251.jpg"
+        },
+        {
+            "img": "Radiographs/266.JPG",
+            "seg": "Segmentation/teeth_mask/266.jpg",
+            "msk": "Segmentation/maxillomandibular/266.jpg"
+        },
+        {
+            "img": "Radiographs/892.JPG",
+            "seg": "Segmentation/teeth_mask/892.jpg",
+            "msk": "Segmentation/maxillomandibular/892.jpg"
+        },
+        {
+            "img": "Radiographs/632.JPG",
+            "seg": "Segmentation/teeth_mask/632.jpg",
+            "msk": "Segmentation/maxillomandibular/632.jpg"
+        },
+        {
+            "img": "Radiographs/906.JPG",
+            "seg": "Segmentation/teeth_mask/906.jpg",
+            "msk": "Segmentation/maxillomandibular/906.jpg"
+        },
+        {
+            "img": "Radiographs/464.JPG",
+            "seg": "Segmentation/teeth_mask/464.jpg",
+            "msk": "Segmentation/maxillomandibular/464.jpg"
+        },
+        {
+            "img": "Radiographs/847.JPG",
+            "seg": "Segmentation/teeth_mask/847.jpg",
+            "msk": "Segmentation/maxillomandibular/847.jpg"
+        },
+        {
+            "img": "Radiographs/943.JPG",
+            "seg": "Segmentation/teeth_mask/943.jpg",
+            "msk": "Segmentation/maxillomandibular/943.jpg"
+        },
+        {
+            "img": "Radiographs/408.JPG",
+            "seg": "Segmentation/teeth_mask/408.jpg",
+            "msk": "Segmentation/maxillomandibular/408.jpg"
+        },
+        {
+            "img": "Radiographs/615.JPG",
+            "seg": "Segmentation/teeth_mask/615.jpg",
+            "msk": "Segmentation/maxillomandibular/615.jpg"
+        },
+        {
+            "img": "Radiographs/416.JPG",
+            "seg": "Segmentation/teeth_mask/416.jpg",
+            "msk": "Segmentation/maxillomandibular/416.jpg"
+        },
+        {
+            "img": "Radiographs/473.JPG",
+            "seg": "Segmentation/teeth_mask/473.jpg",
+            "msk": "Segmentation/maxillomandibular/473.jpg"
+        },
+        {
+            "img": "Radiographs/510.JPG",
+            "seg": "Segmentation/teeth_mask/510.jpg",
+            "msk": "Segmentation/maxillomandibular/510.jpg"
+        },
+        {
+            "img": "Radiographs/426.JPG",
+            "seg": "Segmentation/teeth_mask/426.jpg",
+            "msk": "Segmentation/maxillomandibular/426.jpg"
+        },
+        {
+            "img": "Radiographs/1034.JPG",
+            "seg": "Segmentation/teeth_mask/1034.jpg",
+            "msk": "Segmentation/maxillomandibular/1034.jpg"
+        },
+        {
+            "img": "Radiographs/896.JPG",
+            "seg": "Segmentation/teeth_mask/896.jpg",
+            "msk": "Segmentation/maxillomandibular/896.jpg"
+        },
+        {
+            "img": "Radiographs/364.JPG",
+            "seg": "Segmentation/teeth_mask/364.jpg",
+            "msk": "Segmentation/maxillomandibular/364.jpg"
+        },
+        {
+            "img": "Radiographs/555.JPG",
+            "seg": "Segmentation/teeth_mask/555.jpg",
+            "msk": "Segmentation/maxillomandibular/555.jpg"
+        },
+        {
+            "img": "Radiographs/243.JPG",
+            "seg": "Segmentation/teeth_mask/243.jpg",
+            "msk": "Segmentation/maxillomandibular/243.jpg"
+        },
+        {
+            "img": "Radiographs/269.JPG",
+            "seg": "Segmentation/teeth_mask/269.jpg",
+            "msk": "Segmentation/maxillomandibular/269.jpg"
+        },
+        {
+            "img": "Radiographs/305.JPG",
+            "seg": "Segmentation/teeth_mask/305.jpg",
+            "msk": "Segmentation/maxillomandibular/305.jpg"
+        },
+        {
+            "img": "Radiographs/343.JPG",
+            "seg": "Segmentation/teeth_mask/343.jpg",
+            "msk": "Segmentation/maxillomandibular/343.jpg"
+        },
+        {
+            "img": "Radiographs/469.JPG",
+            "seg": "Segmentation/teeth_mask/469.jpg",
+            "msk": "Segmentation/maxillomandibular/469.jpg"
+        },
+        {
+            "img": "Radiographs/21.JPG",
+            "seg": "Segmentation/teeth_mask/21.jpg",
+            "msk": "Segmentation/maxillomandibular/21.jpg"
+        },
+        {
+            "img": "Radiographs/712.JPG",
+            "seg": "Segmentation/teeth_mask/712.jpg",
+            "msk": "Segmentation/maxillomandibular/712.jpg"
+        },
+        {
+            "img": "Radiographs/675.JPG",
+            "seg": "Segmentation/teeth_mask/675.jpg",
+            "msk": "Segmentation/maxillomandibular/675.jpg"
+        },
+        {
+            "img": "Radiographs/895.JPG",
+            "seg": "Segmentation/teeth_mask/895.jpg",
+            "msk": "Segmentation/maxillomandibular/895.jpg"
+        },
+        {
+            "img": "Radiographs/457.JPG",
+            "seg": "Segmentation/teeth_mask/457.jpg",
+            "msk": "Segmentation/maxillomandibular/457.jpg"
+        },
+        {
+            "img": "Radiographs/235.JPG",
+            "seg": "Segmentation/teeth_mask/235.jpg",
+            "msk": "Segmentation/maxillomandibular/235.jpg"
+        },
+        {
+            "img": "Radiographs/172.JPG",
+            "seg": "Segmentation/teeth_mask/172.jpg",
+            "msk": "Segmentation/maxillomandibular/172.jpg"
+        },
+        {
+            "img": "Radiographs/12.JPG",
+            "seg": "Segmentation/teeth_mask/12.jpg",
+            "msk": "Segmentation/maxillomandibular/12.jpg"
+        },
+        {
+            "img": "Radiographs/485.JPG",
+            "seg": "Segmentation/teeth_mask/485.jpg",
+            "msk": "Segmentation/maxillomandibular/485.jpg"
+        },
+        {
+            "img": "Radiographs/980.JPG",
+            "seg": "Segmentation/teeth_mask/980.jpg",
+            "msk": "Segmentation/maxillomandibular/980.jpg"
+        },
+        {
+            "img": "Radiographs/89.JPG",
+            "seg": "Segmentation/teeth_mask/89.jpg",
+            "msk": "Segmentation/maxillomandibular/89.jpg"
+        },
+        {
+            "img": "Radiographs/62.JPG",
+            "seg": "Segmentation/teeth_mask/62.jpg",
+            "msk": "Segmentation/maxillomandibular/62.jpg"
+        },
+        {
+            "img": "Radiographs/5.JPG",
+            "seg": "Segmentation/teeth_mask/5.jpg",
+            "msk": "Segmentation/maxillomandibular/5.jpg"
+        },
+        {
+            "img": "Radiographs/115.JPG",
+            "seg": "Segmentation/teeth_mask/115.jpg",
+            "msk": "Segmentation/maxillomandibular/115.jpg"
+        }
+    ]
+}

@@ -46,5 +46,5 @@ if __name__ == "__main__":
     for c in range(num_classes):
         out["class_weights"][c] = class_weights[c]
 
-    json.dump(out, open("data.json", "w"), indent=True)
+    json.dump(out, open("data.json", "w"), indent=4)
     
