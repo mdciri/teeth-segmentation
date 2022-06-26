@@ -79,7 +79,7 @@ def train(device, model, train_loader, valid_loader, optimizer, criterion, metri
 
 if __name__ == "__main__":
 
-    parser = argparse.ArgumentParser("Vox2Vox training and validation script", add_help=False)
+    parser = argparse.ArgumentParser("Teeth model training script", add_help=False)
     parser.add_argument("-md", "--model_dir", type=str, help="model directory")
     parser.add_argument("-d", "--device", default="mps", type=str, help="GPU-ID position")
     parser.add_argument("-g", "--gpu_id", default=0, type=int, help="GPU-ID position")
