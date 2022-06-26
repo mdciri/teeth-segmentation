@@ -26,6 +26,11 @@ This scripts runs the training scrits. It:
 - `100` number of maximum epochs.
 
 # Evaluation
+    pthon evaluation.py -md "<model_directory>" -d "mps" -g 0 -bs 1 
 
+This script computes evaluation over the training, validation, and test dataset saving the dice score per each image in the file `evaluation_results.csv`.
 
 # GUI
+    pthon gui.py
+
+This scripts runs a simple GUI where the user can upload an image, visualize the model's segmentation prediction, and, in case, save it.
