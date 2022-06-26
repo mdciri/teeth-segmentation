@@ -34,3 +34,5 @@ This script computes evaluation over the training, validation, and test dataset 
     pthon gui.py
 
 This scripts runs a simple GUI where the user can upload an image, visualize the model's segmentation prediction, and, in case, save it.
+
+![](gui.gif)
